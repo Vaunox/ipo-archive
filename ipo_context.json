@@ -1,0 +1,5107 @@
+{
+  "refreshed_at": "2026-07-15T13:40:48.825966+00:00",
+  "ipos": {
+    "AADHARHFC": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "ahfl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2024/aadhar-housing-finance-limited-rhp_83134.html",
+      "lot_size": 47,
+      "isin": "INE883F01010"
+    },
+    "AASTHA": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 226 263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://aasthaspintex.com/pdf/RHP/RHP_Aastha.pdf",
+      "lot_size": 110,
+      "isin": "INE2FMX01012",
+      "industry": "Textile"
+    },
+    "ABDL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited ",
+        "email": "abdl.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited "
+      },
+      "lot_size": 53,
+      "isin": "INE552Z01027"
+    },
+    "ABSLAMC": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "+91 40 6716 2222",
+        "email": "absl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/aditya-birla-sun-life-amc-addendum-to-drhp_51930.html",
+      "lot_size": 20,
+      "isin": "INE404A01024"
+    },
+    "ACMESOLAR": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "acmesolar.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 ",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/acme-solar-holdings-limited_84595.html",
+      "lot_size": 51,
+      "isin": "INE622W01025",
+      "industry": "Power Generation/Distribution"
+    },
+    "ADANIENTPP": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "ael.fpo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.bseindia.com/downloads1/Adani%20Enterprises%20Limited%20RHP.pdf",
+      "lot_size": 4,
+      "isin": "IN9423A01022"
+    },
+    "ADVANCE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "advance.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Advance Agrolife Limited RHP.pdf",
+      "lot_size": 150,
+      "isin": "INE1B0W01010",
+      "industry": "Pesticides & Agrochemicals"
+    },
+    "AEGISVOPAK": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "aegisvopak.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.icicisecurities.com/Upload/ArticleAttachments/Aegis%20Vopak%20-%20Red%20Herring%20Prospectus.pdf",
+      "lot_size": 63,
+      "isin": "INE0INX01018"
+    },
+    "AEQUS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "aequs.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2025/aequs-limited-rhp_97972.html",
+      "lot_size": 120,
+      "isin": "INE947N01017",
+      "industry": "Engineering"
+    },
+    "AEROFLEX": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "aeroflexindustries.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949 ",
+        "contact_name": "Shanti Gopalkrishna",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.aeroflexindia.com/wp-content/uploads/Aeroflex-Industries-Ltd-RHP-ir.pdf",
+      "lot_size": 130,
+      "isin": "INE024001021"
+    },
+    "AETHER": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "aether.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/aether-industries-limited_58968.html",
+      "lot_size": 23,
+      "isin": "INE0BWX01014"
+    },
+    "AFCONS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "afconsinfrastructure.ipo@linkintime.co.in",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.afcons.com/sites/default/files/2024-10/Nirmaan-RHP-signed-version.pdf",
+      "lot_size": 32,
+      "isin": "INE101I01011"
+    },
+    "AFIL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Mr. Babu Raphael C",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2024/akme-fintrade-india-limited-rhp_84159.html",
+      "lot_size": 125,
+      "isin": "INE916Y01019"
+    },
+    "AGARWALEYE": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://kosmic.kfintech.com",
+        "email": "ahcl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/18003094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/downloads/agarwals-healthcare-limited-RHP.pdf",
+      "lot_size": 35,
+      "isin": "INE943P01029",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "AGSTRA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "ags.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2022/ags-transact-technologies-limited_55308.html",
+      "lot_size": 85,
+      "isin": "INE583L01014"
+    },
+    "AHCL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "ahl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/anlon-healthcare-limited-rhp_96196.html",
+      "lot_size": 164,
+      "isin": "INE0Y8W01017",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "AHL": {
+      "registrar": {
+        "name": "BIGSHARE SERVICES PRIVATE LIMITED",
+        "website": "http://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 022 6263 8200",
+        "contact_name": "Mr. Ashish Bhope",
+        "short": "BIGSHARE SERVICES PRIVATE LIMITED"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/abans-holdings-limited-rhp_65916.html",
+      "lot_size": 55,
+      "isin": "INE00ZE01026"
+    },
+    "AIK": {
+      "registrar": {
+        "name": "Skyline Financial Services Private Ltd",
+        "email": "ipo@skylinerta.com",
+        "contact_number": "02228511022 ",
+        "contact_name": "Mr. Anuj Rana",
+        "short": "Skyline Financial Services Private Ltd"
+      },
+      "lot_size": 1600,
+      "isin": "INE0QFT01015"
+    },
+    "AJAXENGG": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "ajaxengineering.ipo@linkintime.co.in",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2025/ajax-engineering-ltd-rhp_91647.html",
+      "lot_size": 23,
+      "isin": "INE274Y01021",
+      "industry": "Engineering - Construction"
+    },
+    "AKUMS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "akumsdrugs.ipo@linkintime.co.in",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/akums-drugs-and-pharmaceuticals-limited-rhp_84970.html",
+      "lot_size": 22,
+      "isin": "INE09XN01023"
+    },
+    "ALLTIME": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/",
+        "email": "atpl.ipo@kfintech.com",
+        "contact_number": " 04067162222,04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/all-time-plastics-limited-rhp_95805.html",
+      "lot_size": 54,
+      "isin": "INE0GV601021",
+      "industry": "Plastic Products"
+    },
+    "ALPINETEX": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "alpine.ipo@kfintech.com",
+        "contact_number": "+91 40 67162222 / 18003094001",
+        "contact_name": "Mr. M Murli Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/alpine-texworld-limited-rhp_102719.html",
+      "lot_size": 142,
+      "isin": "INE1JCQ01037",
+      "industry": "Textile"
+    },
+    "AMAGI": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "amagimedia.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "lot_size": 41,
+      "isin": "INE121R01077",
+      "industry": "IT - Software"
+    },
+    "AMANTA": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "amantahealthcare.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Amanta - GID.pdf",
+      "lot_size": 119,
+      "isin": "INE084K01015",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "AMIORG": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "+91 22 4918 6200",
+        "email": "amiorganics.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 24,
+      "isin": "INE00FF01017"
+    },
+    "AMIRCHAND": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "acjkel.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/RHP_Amir Chand Jagdish Kumar (Exports) Limited.pdf",
+      "lot_size": 70,
+      "isin": "INE05TO01019",
+      "industry": "Consumer Food"
+    },
+    "ANTHEM": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "anthem.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/anthem-biosciences-limited-rhp_95139.html",
+      "lot_size": 26,
+      "isin": "INE0CZ201020",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "ANURAS": {
+      "registrar": {
+        "name": "Kfin Technologies Private Limited",
+        "email": "anupamrasayan.ipo@kfintech.com",
+        "contact_number": "040 3321 100",
+        "contact_name": "Mr. M Murali Krishna",
+        "short": "Kfin Technologies Private Limited"
+      },
+      "lot_size": 27,
+      "isin": "INE930P01018"
+    },
+    "APTUS": {
+      "registrar": {
+        "name": "KFin Technologies Pvt Ltd",
+        "website": "+91 044 4565 0000",
+        "email": "cs@aptusindia.com",
+        "contact_number": "+91 044 4565 0000",
+        "contact_name": "Sanin Panicker",
+        "short": "KFin Technologies Pvt Ltd"
+      },
+      "lot_size": 42,
+      "isin": "INE852O01025"
+    },
+    "ARCHEAN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "archean.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/archean-chemical-industries-limited-rhp_64594.html",
+      "lot_size": 36,
+      "isin": "INE128X01021"
+    },
+    "ARISINFRA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "arisinfra.ipo@linkintime.co.in",
+        "contact_number": " +91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/arisinfra-solutions-limited-rhp_94545.html",
+      "lot_size": 67,
+      "isin": "INE0H9P01028",
+      "industry": "Cement & Construction Materials"
+    },
+    "ARKADE": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91-22-62638200",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://nsearchives.nseindia.com/content/ipo/RHP_ARKADE.zip",
+      "lot_size": 110,
+      "isin": "INE0QRL01017"
+    },
+    "ARSSBL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "anandrathibrokers.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/September-17-2025-Anand-Rathi-Share-and-Stock-Brokers-Limited-\u2013-RHP.pdf",
+      "lot_size": 36,
+      "isin": "INE549H01021",
+      "industry": "Finance - Stock Broking"
+    },
+    "ARWL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "Anandrathi.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/anand-rathi-wealth-limited-rhp_54303.html",
+      "lot_size": 27,
+      "isin": "INE463V01026"
+    },
+    "ASARFI": {
+      "registrar": {
+        "name": "CAMEO CORPORATE SERVICES LIMITED",
+        "website": "https://ipo.cameoindia.com/",
+        "email": "priya@cameoindia.com",
+        "contact_number": "+91-44-28460390",
+        "contact_name": "K. Sreepriya",
+        "short": "CAMEO CORPORATE SERVICES LIMITED"
+      },
+      "rhp_url": "http://asarfi.in/assets/draft/AsarfiHospitalLimited_RHP.pdf",
+      "lot_size": 2000,
+      "isin": "INE0DN001027"
+    },
+    "ASKAUTO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "askauto.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2023/ask-automotive-limited-rhp_78542.html",
+      "lot_size": 53,
+      "isin": "INE491J01022"
+    },
+    "ATHER": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "atherenergy.ipo@linkintime.co.in",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2025/ather-energy-limited-rhp_93554.html",
+      "lot_size": 46,
+      "isin": "INE0LEZ01016",
+      "industry": "Automobile Two & Three Wheelers"
+    },
+    "ATLANTAELE": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "atlantaelectricals.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1222021330Atlanta Electricals Limited_RHP.pdf",
+      "lot_size": 19,
+      "isin": "INE0Z4F01028",
+      "industry": "Electric Equipment"
+    },
+    "AVALON": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "avalontec.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2022/avalon-technologies-limited_61872.html",
+      "lot_size": 34,
+      "isin": "INE0LCL01028"
+    },
+    "AWFIS": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.awfis.com/images/reports/drhp/RHP.pdf",
+      "lot_size": 39,
+      "isin": "INE108V01019"
+    },
+    "AWL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited ",
+        "website": "https://linkintime.co.in/",
+        "email": "adaniwilmar.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2022/adani-wilmar-limited_55482.html",
+      "lot_size": 65,
+      "isin": "INE699H01014"
+    },
+    "AYE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "ayefinance.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2026/aye-finance-limited-rhp_99484.html",
+      "lot_size": 116,
+      "isin": "INE501X01029",
+      "industry": "Finance - NBFC"
+    },
+    "AZAD": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "azad.ipo@kfintech.com",
+        "contact_number": " 04067162222, 04079611000",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/azad-engineering-limited-rhp_79929.html",
+      "lot_size": 28,
+      "isin": "INE02IJ01035"
+    },
+    "BAGMANE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "bagmane.reit@kfintech.com",
+        "contact_number": "+91 40 6716 2222/1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/5716-1777312447.pdf",
+      "lot_size": 150,
+      "isin": "INE2OVN25015",
+      "industry": "Construction - Real Estate"
+    },
+    "BAJAJHFL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "bhfl.ipo@kfintech.com",
+        "contact_number": "+91 40 67162222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2024/bajaj-housing-finance-limited-drhp_84125.html",
+      "lot_size": 214,
+      "isin": "INE377Y01014"
+    },
+    "BANSALWIRE": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "email": "bwil.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited "
+      },
+      "lot_size": 58,
+      "isin": "INE0B9K01025"
+    },
+    "BARBEQUE": {
+      "registrar": {
+        "name": "Link Intime",
+        "email": "bnhl.ipo@linkintime.co.in",
+        "contact_number": "022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime"
+      },
+      "lot_size": 30,
+      "isin": "INE382M01027"
+    },
+    "BECTORFOOD": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "www.linkintime.co.in",
+        "email": "bector.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 50,
+      "isin": "INE495P01012"
+    },
+    "BELRISE": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "belriseindustries.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Belrise%20Industries%20Limited-RHP-1747325577.pdf",
+      "lot_size": 166,
+      "isin": "INE894V01022",
+      "industry": "Auto Ancillary"
+    },
+    "BHARATCOAL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "bccl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/18003094001",
+        "contact_name": "M Murali Krishan",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://bcclweb.in/newpdfs/Investor_relation/Red%20Herring%20Prospectus.pdf",
+      "lot_size": 600,
+      "isin": "INE05XR01022",
+      "industry": "Mining & Minerals"
+    },
+    "BHARTIHEXA": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "bhl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/bharti-hexacom-limited-rhp_82540.html",
+      "lot_size": 26,
+      "isin": "INE343G01021"
+    },
+    "BIKAJI": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "bikaji.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2022/bikaji-foods-international-limited_56321.html",
+      "lot_size": 50,
+      "isin": "INE00E101023"
+    },
+    "BLACKBUCK": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "zinka.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://bb-website-public-assets.s3.ap-south-1.amazonaws.com/legal-assets/pdf/RHP.pdf",
+      "lot_size": 54,
+      "isin": "INE0UIZ01018",
+      "industry": "Logistics"
+    },
+    "BLSE": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "mb@unistonecapital.com",
+        "contact_number": "04067162222, 04079611000 ",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 108,
+      "isin": "INE0NLT01010"
+    },
+    "BLUEJET": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "bluejet.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2022/blue-jet-healthcare-limited_62646.html",
+      "lot_size": 43,
+      "isin": "INE0KBH01020"
+    },
+    "BLUESTONE": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "bluestone.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": " M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/bluestone-jewellery-and-lifestyle-limited-rhp_95849.html",
+      "lot_size": 29,
+      "isin": "INE304W01038",
+      "industry": "Diamond & Jewellery"
+    },
+    "BMWVENTLTD": {
+      "registrar": {
+        "name": "Cameo Corporate Services Limited",
+        "website": "https://cameoindia.com/",
+        "email": "bmw@cameoindia.com",
+        "contact_number": "+91 44 4002 0700",
+        "contact_name": "K. Sreepriya",
+        "short": "Cameo"
+      },
+      "rhp_url": "https://www.sarthi.in/wp-content/uploads/2025/09/BMW_RHP.pdf",
+      "lot_size": 151,
+      "isin": "INE965W01036",
+      "industry": "Steel & Iron Products"
+    },
+    "BORANA": {
+      "registrar": {
+        "name": "KFIN Technologies Limited ",
+        "website": "https://kosmic.kfintech.com/signin.aspx",
+        "email": "bwl.ipo@kfintech.com",
+        "contact_number": "040-67162222/18003094001",
+        "contact_name": "M. Murali Krishna ",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://boranagroup.in/uploads/rhp/rhp-borana-weaves-ltd.pdf",
+      "lot_size": 69,
+      "isin": "INE16SF01016",
+      "industry": "Textile - Weaving"
+    },
+    "BRIGHOTEL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "einward.ris@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "KFintech"
+      },
+      "rhp_url": "https://live.jmfl.com/od/UploadedFiles/2F50C04C-0E10-44C6-B545-C2A9D9344B54.pdf",
+      "lot_size": 166,
+      "isin": "INE03NU01014",
+      "industry": "Hotel"
+    },
+    "BRISK": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "reachus@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M Murali Krishna ",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://brisk-india.com/Prospectus.pdf",
+      "lot_size": 800,
+      "isin": "INE0Q6L01014"
+    },
+    "BURGERKING": {
+      "registrar": {
+        "name": "Burger King India Limited",
+        "website": "www.linkintime.co.in",
+        "email": "burgerking.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6270",
+        "contact_name": "Link Intime India Private Ltd",
+        "short": "Burger King India Limited"
+      },
+      "lot_size": 250,
+      "isin": "INE07T201019"
+    },
+    "BZRSTYL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "baazarstyle.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/gala-precision-engineering-ltd-rhp_86199.html",
+      "lot_size": 38,
+      "isin": "INE01FR01028"
+    },
+    "CAMPUS": {
+      "registrar": {
+        "name": "Link Intime India Pvt Ltd",
+        "website": "https://linkintime.co.in/",
+        "email": "campus.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Pvt Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2022/campus-activewear-limited_58219.html",
+      "lot_size": 51,
+      "isin": "INE278Y01022"
+    },
+    "CANHLIFE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "einward.ris@kfintech.com",
+        "contact_number": "+91 40 6716 2222/1800 3094001",
+        "contact_name": "M Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/5286",
+      "lot_size": 140,
+      "isin": "INE01TY01017",
+      "industry": "Insurance"
+    },
+    "CAPILLARY": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "capillarytechnologies.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/5384",
+      "lot_size": 25,
+      "isin": "INE0ILV01024",
+      "industry": "IT - Software"
+    },
+    "CAPITALSFB": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "capitalsfb.ipo@linkintime.co.in",
+        "contact_number": "91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/capital-small-finance-bank-limited-rhp_81021.html",
+      "lot_size": 32,
+      "isin": "INE646H01017"
+    },
+    "CARRARO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "carraro.ipo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/wp-content/uploads/Carraro-India-Limited-RHP.pdf",
+      "lot_size": 21,
+      "isin": "INE0V7W01012",
+      "industry": "Automobiles-Tractors"
+    },
+    "CARTRADE": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd. ",
+        "website": "+91 22 6739 8888",
+        "email": "investor@cartrade.com",
+        "contact_number": "+91 22 6739 8888",
+        "contact_name": "Lalbahadur Pal",
+        "short": "Link Intime India Pvt. Ltd. "
+      },
+      "lot_size": 9,
+      "isin": "INE290S01011"
+    },
+    "CEIGALL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "ceigall.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/ceigall-india-limited-rhp_85262.html",
+      "lot_size": 37,
+      "isin": "INE0AG901020"
+    },
+    "CELLO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "celloworld.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/downloads/cello-world-limited-RHP.pdf",
+      "lot_size": 23,
+      "isin": "INE0LMW01024"
+    },
+    "CEWATER": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in",
+        "email": "carraro.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "link"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/concord-enviro-systems-limited-rhp_89957.html",
+      "lot_size": 21,
+      "isin": "INE037Z01029",
+      "industry": "Engineering"
+    },
+    "CHEMPLAST": {
+      "registrar": {
+        "name": "KFin Technologies Pvt Ltd",
+        "website": "+(91) 044 28128722 ",
+        "email": "grd@sanmargroup.com",
+        "contact_number": "+(91) 044 28128722 ",
+        "contact_name": "M Raman",
+        "short": "KFin Technologies Pvt Ltd"
+      },
+      "lot_size": 27,
+      "isin": "INE488A01050"
+    },
+    "CLEAN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "compliance@cleanscience.co.in",
+        "contact_number": "+91 20 2689 9953 ",
+        "contact_name": "Mahesh Arvind Kulkarni",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 16,
+      "isin": "INE227W01023"
+    },
+    "CLEANMAX": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "cleanmax.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/69935e4a8e75c72bf84c5e4a_Project Anantha - Red Herring Prospectus (filing version).pdf",
+      "lot_size": 14,
+      "isin": "INE647U01026"
+    },
+    "CMLL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "cmll.ipo@kfintech.com",
+        "contact_number": "+91 4067162222 / 18003094001",
+        "contact_name": "M Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/caliber-mining-and-logistics-limited-rhp_102790.html",
+      "lot_size": 35,
+      "isin": "INE11XY01018",
+      "industry": "Logistics"
+    },
+    "CMPDI": {
+      "registrar": {
+        "name": "K Fintech Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "centralmine.ipo@kfintech.com",
+        "contact_number": "+91 4067162222",
+        "contact_name": "M. Murali Krishna",
+        "short": " K Fintech"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/central-mine-planning-and-design-institute-limited-rhp_100326.html",
+      "lot_size": 80,
+      "isin": "INE05HV01027",
+      "industry": "Mining & Minerals"
+    },
+    "CMRGREEN": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "cmr.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/cmr-green-technologies-rhp.pdf",
+      "lot_size": 78,
+      "isin": "INE00WV01027",
+      "industry": "Metal - Non Ferrous"
+    },
+    "CMSINFO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "cmsinfo.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/cms-info-systems-limited_54653.html",
+      "lot_size": 69,
+      "isin": "INE925R01014"
+    },
+    "CONCORDBIO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "concordbiotech.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/concord-biotech-limited-rhp_74629.html",
+      "lot_size": 20,
+      "isin": "INE338H01029"
+    },
+    "CORDELIA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "waterwaysleisure.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/waterways-leisure-tourism-limited-rhp_102226.html",
+      "lot_size": 18,
+      "isin": "INE0LZF01013",
+      "industry": "Travel Services"
+    },
+    "CORONA": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22626 38200",
+        "contact_name": "Babu Rapheal C",
+        "short": "Bigshare "
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1764758345331.pdf",
+      "lot_size": 14,
+      "isin": "INE02ZQ01018",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "CPPLUS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "adityainfotech.ipo@in.mpms.mufg.com",
+        "contact_number": " + 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.icicisecurities.com/Upload/ArticleAttachments/Aditya%20Infotech%20Limited%20-%20RHP.pdf",
+      "lot_size": 22,
+      "isin": "INE819V01029",
+      "industry": "Electronics - Components"
+    },
+    "CRAFTSMAN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "craftsman.ipo@linkintime.co.in",
+        "contact_number": "+(91 22) 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 10,
+      "isin": "INE00LO01017"
+    },
+    "CRAMC": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "canararobeco.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/5287",
+      "lot_size": 56,
+      "isin": "INE218I01013",
+      "industry": "Finance - Asset Management"
+    },
+    "CRIZAC": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "crizac.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti  Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Crizac Limited RHP.pdf",
+      "lot_size": 61,
+      "isin": "INE0S4R01014",
+      "industry": "Educational Institutions"
+    },
+    "CSM": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "csmtechnologies.ipo@kfintech.com",
+        "contact_number": "+91 040-67162222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/csm-technologies-limited-rhp_102194.html",
+      "lot_size": 132,
+      "isin": "INE0ZK601013",
+      "industry": "IT - Software"
+    },
+    "CYIENTDLM": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "cyientdlm.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/cyient-dlm-limited-rhp_72861.html",
+      "lot_size": 56,
+      "isin": "INE055S01018"
+    },
+    "DAMCAPITAL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "damcapital.ipo@linkintime.co.in",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.damcapital.in/files/investorrelation/638698141609926454_DAM_Capital_Advisors_Limited_-_RHP.pdf",
+      "lot_size": 53,
+      "isin": "INE284H01025",
+      "industry": "Finance - Stock Broking"
+    },
+    "DATAPATTNS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "datapatterns.ipo@linkintine.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2021/data-patterns-india-limited_52759.html",
+      "lot_size": 25,
+      "isin": "INE0IX101010"
+    },
+    "DBEIL": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "deepakbuilders.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 180030 94001",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/deepak-builders-and-engineers-india-limited-rhp_87578.html",
+      "lot_size": 73,
+      "isin": "INE0OPA01019"
+    },
+    "DCX": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "dcxsystems.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2022/dcx-systems-limited_57631.html",
+      "lot_size": 72,
+      "isin": "INE0KL801015"
+    },
+    "DEEDEV": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "dde.ipo@linkintime.co.in",
+        "contact_number": " +91-8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2024/dee-development-engineers-limited-rhp_84094.html",
+      "lot_size": 73,
+      "isin": "INE841L01016"
+    },
+    "DEEPAKCHEM": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": " Babu Rapheal C",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "rhp_url": "https://www.deepakchemtex.in/assets/pdf/Offer_Document/Red-Herring-Prospectus.pdf",
+      "lot_size": 1600,
+      "isin": "INE0RDM01013"
+    },
+    "DELHIVERY": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "delhivery.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/delhivery-limited_58635.html",
+      "lot_size": 30,
+      "isin": "INE148O01028"
+    },
+    "DENTA": {
+      "registrar": {
+        "name": "INTEGRATED REGISTRY MANAGEMENT SERVICES  PRIVATE LIMITED",
+        "email": "giri@integratedindia.in",
+        "contact_number": "080 \u2013 23460815",
+        "contact_name": "S Giridhar",
+        "short": "INTEGRATED"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2025/denta-water-and-infra-solutions-limited-rhp_90910.html",
+      "lot_size": 50,
+      "isin": "INE0R4L01018",
+      "industry": "Engineering"
+    },
+    "DEVX": {
+      "registrar": {
+        "name": "KFIN Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "dal.ipo@kfintech.com",
+        "contact_number": "040-67162222/18003094001 ",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1756961828468 (1).pdf",
+      "lot_size": 235,
+      "isin": "INE0VOV01021"
+    },
+    "DEVYANI": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "011-4170 6720 ",
+        "email": "companysecretary@dil-rjcorp.com",
+        "contact_number": "011-4170 6720 ",
+        "contact_name": "Anil Dwivedi",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 165,
+      "isin": "INE872J01023"
+    },
+    "DHARMAJ": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "dharmaj.crop@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/dharmaj-crop-guard-limited-red-herring-prospectus_65339.html",
+      "lot_size": 60,
+      "isin": "INE00OQ01016"
+    },
+    "DIFFNKG": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+9122-6263 8200",
+        "contact_name": "Babu Rapheal C",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/diffusion-engineers-limited-rhp_86920.html",
+      "lot_size": 88,
+      "isin": "INE184O01015"
+    },
+    "DIVGIITTS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "Divgi.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2023/divgi-torqtransfer-systems-limited-rhp_68446.html",
+      "lot_size": 25,
+      "isin": "INE753U01022"
+    },
+    "DODLA": {
+      "registrar": {
+        "name": "Kfin Technologies Pvt Limited",
+        "email": "mail@dodladairy.com",
+        "contact_number": "+91 40 4546 7777",
+        "contact_name": "Miss. Ruchita Malpani",
+        "short": "Kfin Technologies Pvt Limited"
+      },
+      "lot_size": 35,
+      "isin": "INE021O01019"
+    },
+    "DOMS": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "domsind.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/doms-industries-limited-rhp_79543.html",
+      "lot_size": 18,
+      "isin": "INE321T01012"
+    },
+    "DREAMFOLKS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "dreamfolks.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2022/dreamfolks-services-limited_62040.html",
+      "lot_size": 46,
+      "isin": "INE0JS101016"
+    },
+    "EASEMYTRIP": {
+      "registrar": {
+        "name": "KFin Technologies",
+        "email": "easytrip.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "Mr. M. Murali Krishna",
+        "short": "KFin Technologies"
+      },
+      "lot_size": 80,
+      "isin": "INE07O001018"
+    },
+    "EBGNG": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 62638200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/gng-electronics-limited-rhp_95435.html",
+      "lot_size": 63,
+      "isin": "INE18JU01028",
+      "industry": "Electronics - Components"
+    },
+    "ECOSMOBLTY": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "ecorentacar.ipo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishna",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/ecos-india-mobility-and-hospitality-limited-rhp_86002.html",
+      "lot_size": 44,
+      "isin": "INE06HJ01020"
+    },
+    "EIEL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://ipo.bigshareonline.com/ipo_status.html",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Raphael C.",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://hemadmin.hemsecurities.com/images/Files/InvestmentBanking/1321.pdf",
+      "lot_size": 101,
+      "isin": "INE0LLY01014",
+      "industry": "Engineering"
+    },
+    "ELIN": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "einward.ris@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/elin-electronics-limited-rhp_66198.html",
+      "lot_size": 60,
+      "isin": "INE050401020"
+    },
+    "ELLEN": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "eigl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Ellenbarrie_RHP.pdf",
+      "lot_size": 37,
+      "isin": "INE236E01022",
+      "industry": "Industrial Gases & Fuels"
+    },
+    "EMCURE": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "emcure.ipo@linkintime.co.in",
+        "contact_number": "+ 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/wp-content/uploads/Emcure-Pharmaceuticals-Limited-RHP.pdf",
+      "lot_size": 14,
+      "isin": "INE168P01015"
+    },
+    "EMIL": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "emi.ipo@kfintech.co",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2022/electronics-mart-india-limited_63391.html",
+      "lot_size": 254,
+      "isin": "INE02YR01019"
+    },
+    "EMMVEE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "emmvee.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222/ 1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/5369",
+      "lot_size": 69,
+      "isin": "INE1C6T01020"
+    },
+    "EMSLIMITED": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "ems.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "Mr. M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/ems-limited-rhp_76500.html",
+      "lot_size": 70,
+      "isin": "INE0OV601013"
+    },
+    "EMUDHRA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "emudhra.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/emudhra-limited_58912.html",
+      "lot_size": 58,
+      "isin": "INE01QM01018"
+    },
+    "ENTERO": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "enterohealthcare.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 11,
+      "isin": "INE010601016"
+    },
+    "EPACK": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "epack.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 65,
+      "isin": "INE0G5901015"
+    },
+    "EPACKPEB": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "epackprefab.ipo@kfintech.com",
+        "contact_number": "+91 40 7961100",
+        "contact_name": "Srinivas Sudheer Venkata Puram",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://www.mnclgroup.com/storage/epack-prefab-rhp.pdf",
+      "lot_size": 73,
+      "isin": "INE0MLS01022",
+      "industry": "Packaging"
+    },
+    "ESAFSFB": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "esaf.ipo@damcapital.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://esafbank.com/pdf/corporate-governance/ESFB%20-%20RHP.pdf",
+      "lot_size": 250,
+      "isin": "INE818W01011"
+    },
+    "ETHOSLTD": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "ethosltd@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murli Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/ethos-limited-prospectus_58893.html",
+      "lot_size": 17,
+      "isin": "INE04TZ01018"
+    },
+    "EUROPRATIK": {
+      "registrar": {
+        "name": "MUFG Intime India  Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "europratik.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2025/euro-pratik-sales-limited-rhp_96474.html",
+      "lot_size": 60,
+      "isin": "INE198501012",
+      "industry": "Laminates/Decoratives"
+    },
+    "EXCELSOFT": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "excelsofttechnologies.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2025/excelsoft-technologies-limited-rhp_94797.html",
+      "lot_size": 125,
+      "isin": "INE606N01019",
+      "industry": "IT - Software"
+    },
+    "EXICOM": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "exicom.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 100,
+      "isin": "INE777F01014"
+    },
+    "EXXARO": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "02772-350555",
+        "email": "cs@exxarotiles.com",
+        "contact_number": "02772-350555",
+        "contact_name": "Paras Shah",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 125,
+      "isin": "INE0GFE01018"
+    },
+    "FABTECH": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/fabtech-technologies-limited-rhp.pdf",
+      "lot_size": 75,
+      "isin": "INE0HF201011",
+      "industry": "Engineering"
+    },
+    "FINO": {
+      "registrar": {
+        "name": "KFintech Private Limited",
+        "website": "https://karisma.kfintech.com",
+        "email": "finopayments.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFintech Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/fino-payments-bank-limited_53485.html",
+      "lot_size": 25,
+      "isin": "INE02NC01014"
+    },
+    "FIRSTCRY": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "brainbees.ipo@linkintime.co.in",
+        "contact_number": " 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://nsearchives.nseindia.com/content/equities/IPO_RHP_FIRSTCRY.pdf",
+      "lot_size": 32,
+      "isin": "INE02RE01045"
+    },
+    "FIVESTAR": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "fsbfl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2022/five-star-business-finance-limited-addendum-to-the-drhp_59600.html",
+      "lot_size": 31,
+      "isin": "INE128S01021"
+    },
+    "FLAIR": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "flairwriting.ipo@linkintime.co.in",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Ms. Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://flairworld.in/pdf/investor-relations/Flair-Writing-Industries-Limited-DRHP-July-14-2023.pdf",
+      "lot_size": 49,
+      "isin": "INE00Y201027"
+    },
+    "FRACTAL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "fractal.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Fractal%20Analytics%20Limited-RHP-1770098586.pdf",
+      "lot_size": 16,
+      "isin": "INE212S01015"
+    },
+    "FUSION": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "fusion.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2021/fusion-micro-finance-limited_51753.html",
+      "lot_size": 40,
+      "isin": "INE474Q01031"
+    },
+    "GALAPREC": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "galaprecision.ipo@linkintime.co.in",
+        "contact_number": "+9122 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/gala-precision-engineering-ltd-rhp_86199.html",
+      "lot_size": 28,
+      "isin": "INE0RE001014"
+    },
+    "GANDHAR": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "gandharoil.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/gandhar-oil-refinery-india-limited-rhp_79156.html",
+      "lot_size": 88,
+      "isin": "INE717W01049"
+    },
+    "GANESHCP": {
+      "registrar": {
+        "name": "MUFG Intime India Pvt.Ltd.",
+        "website": "https://linkintime.co.in",
+        "email": "ganeshconsumer.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.damcapital.in/files/pdf/638936456317965897_Ganesh_Consumer_Products_Limited_-_RHP.pdf",
+      "lot_size": 46,
+      "isin": "INE652V01016"
+    },
+    "GARUDA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "garudaconstructions.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/garuda-construction-and-engineering-limited-rhp_87190.html",
+      "lot_size": 157,
+      "isin": "INE0JVO01026"
+    },
+    "GAUDIUMIVF": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sarthi.in/wp-content/uploads/2026/02/Gaudium_RHP.pdf",
+      "lot_size": 189,
+      "isin": "INE0P8B01020",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "GCONNECT": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "Gconnect.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": " M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 3000,
+      "isin": "INE0QHY01011"
+    },
+    "GEMAROMA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "gem.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/gem-aromatics-limited-rhp_96063.html",
+      "lot_size": 46,
+      "isin": "INE06XZ01023",
+      "industry": "Chemicals"
+    },
+    "GKENERGY": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "gkenergy.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/GK_Energy_Limited_-_Red_Herring_Prospectus.pdf",
+      "lot_size": 98,
+      "isin": "INE1AG301022",
+      "industry": "Power Generation/Distribution"
+    },
+    "GKSL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "gujaratkidney.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "lot_size": 128,
+      "isin": "INE0V0W01025",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "GLOBECIVIL": {
+      "registrar": {
+        "name": "KFIN TECHNOLOGIES LIMITED",
+        "website": "https://www.kfintech.com/",
+        "email": "gcpl.ipo@kfintech.com",
+        "contact_number": "+91 40 67162222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/globe-civil-projects-limited-rhp_94642.html",
+      "lot_size": 211,
+      "isin": "INE0V3U01015",
+      "industry": "Engineering - Construction"
+    },
+    "GLOTTIS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "glottisltd.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/180 030 94001",
+        "contact_name": "M. Murali Krishna",
+        "short": "karvy"
+      },
+      "rhp_url": "https://pantomath-web.s3.ap-south-1.amazonaws.com/1758629490248-GlottisLimited-RHP.pdf",
+      "lot_size": 114,
+      "isin": "INE0TQE01026",
+      "industry": "Logistics"
+    },
+    "GLS": {
+      "registrar": {
+        "name": "KARVY",
+        "website": "+91 2189 234456/ +91 2189 234246",
+        "email": "complianceofficer@glenmarklifesciences.com",
+        "contact_number": "+91 2189 234456/ +91 2189 234246",
+        "contact_name": "Rudalf Corriea",
+        "short": "KARVY"
+      },
+      "lot_size": 20,
+      "isin": "INE03Q201024"
+    },
+    "GOCOLORS": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "gofashion.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/go-fashion-india-limited_53860.html",
+      "lot_size": 21,
+      "isin": "INE0BJS01011"
+    },
+    "GODAVARIB": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "godavari.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/godavari-biorefineries-limited-rhp_87745.html",
+      "lot_size": 42,
+      "isin": "INE497S01012"
+    },
+    "GODIGIT": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "godigit.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2024/go-digit-general-insurance-limited-rhp_83281.html",
+      "lot_size": 55,
+      "isin": "INE03JT01014"
+    },
+    "GOPALSNACK": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "gopalsnacks@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 37,
+      "isin": "INE0L9R01028"
+    },
+    "GPTHEALTH": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "gpthealthcare.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/gpt-healthcare-limited-rhp_81587.html",
+      "lot_size": 80,
+      "isin": "INE486R01017"
+    },
+    "GRINFRA": {
+      "registrar": {
+        "name": "KFin Technologies Pvt. Ltd.",
+        "email": "cs@grinfra.com",
+        "contact_number": "+ 91 294 248 7370",
+        "contact_name": "Sudhir Mutha",
+        "short": "KFin Technologies Pvt. Ltd."
+      },
+      "lot_size": 17,
+      "isin": "INE201P01022"
+    },
+    "GROWW": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "groww.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/kib-cms/sites/default/files/offer-documets/BILLIONBRAINS%20GARAGE%20VENTURES%20LIMITED_RED%20HERRING%20PROSPECTUS.pdf",
+      "lot_size": 150,
+      "isin": "INE0HOQ01053",
+      "industry": "Finance - Stock Broking"
+    },
+    "GSLSU": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "http://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+9122 6263 8200",
+        "contact_name": "Mr. Jibu John",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2023/global-surfaces-limited-rhp_68539.html",
+      "lot_size": 100,
+      "isin": "INE0JSX01015"
+    },
+    "GSPCROP": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "gspcrop.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/gsp-crop-science-limited-rhp_100229.html",
+      "lot_size": 46,
+      "isin": "INE713R01022",
+      "industry": "Pesticides & Agrochemicals"
+    },
+    "HAPPYFORGE": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "happyforgings.ipo@linkintime.co.in",
+        "contact_number": "91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 17,
+      "isin": "INE330T01021"
+    },
+    "HARIOM": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "http://www.bigshareonline.com",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91 022 6263 8200",
+        "contact_name": "Ashish Bhope",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/hariom-pipe-industries-limited_57194.html",
+      "lot_size": 98,
+      "isin": "INE00EV01017"
+    },
+    "HARSHA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "harshaengineers.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2022/harsha-engineers-international-limited-rhp_62850.html",
+      "lot_size": 45,
+      "isin": "INE0JUS01029"
+    },
+    "HDBFS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://linkintime.co.in/Initial_Offer/public-issues.html",
+        "email": "hdbfinancial.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/hdb-financial-services-limited-rhp_94689.html",
+      "lot_size": 20,
+      "isin": "INE756I01012",
+      "industry": "Finance - NBFC"
+    },
+    "HERANBA": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited.",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Ashish Bhope",
+        "short": "Bigshare Services Private Limited."
+      },
+      "lot_size": 23,
+      "isin": "INE694N01015"
+    },
+    "HEXAGON": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "hexagon.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://hexagonnutrition.com/wp-content/uploads/2026/05/RHP-documents.pdf",
+      "lot_size": 333,
+      "isin": "INE0JUI01012",
+      "industry": "Consumer Food"
+    },
+    "HEXT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kosmic.kfintech.com",
+        "email": "hexaware.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "lot_size": 21,
+      "isin": "INE093A01041",
+      "industry": "IT - Software"
+    },
+    "HILINFRA": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/highway-infrastructure-limited-rhp_95618.html",
+      "lot_size": 211,
+      "isin": "INE00RL01028"
+    },
+    "HMA": {
+      "registrar": {
+        "name": "Bigshare Services Pvt ",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "91-22-6263 8200",
+        "contact_name": "Bigshare Services Pvt Ltd",
+        "short": "Bigshare Services Pvt "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/hma-agro-industries-limited-rhp_72505.html",
+      "lot_size": 25,
+      "isin": "INE0ECP01016"
+    },
+    "HONASA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "hcl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://honasa.in/wp-content/uploads/2023/10/Red-Herring-Prospectus.pdf",
+      "lot_size": 46,
+      "isin": "INE0J5401028"
+    },
+    "HPAL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "http://www.bigshareonline.com",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 022 6263 8200",
+        "contact_name": "Mr. Ashish Bhope",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/hp-adhesives-limited_54470.html",
+      "lot_size": 50,
+      "isin": "INE0GSL01016"
+    },
+    "HYUNDAI": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "hmil.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 1800 309 4001",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2024/hyundai-motor-india-limited-drhp_84186.html",
+      "lot_size": 7,
+      "isin": "INE0V6F01027"
+    },
+    "ICICIAMC": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "icicipruamc.ipo@kfintech.com",
+        "contact_number": "+ 91-40-6716 2222/ 1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2025/icici-prudential-asset-management-company-limited-rhp_98228.html",
+      "lot_size": 6,
+      "isin": "INE346A01027",
+      "industry": "Finance - Asset Management"
+    },
+    "IDEAFORGE": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "ideaforge.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/ideaforge-technology-limited-addendum-to-rhp_72990.html",
+      "lot_size": 22,
+      "isin": "INE349Y01013"
+    },
+    "IGCL": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "website": "https://ipo.bigshareonline.com",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "Bigshare "
+      },
+      "rhp_url": "https://www.systematixgroup.in/download/Indogulf_RHP.pdf",
+      "lot_size": 135,
+      "isin": "INE05J901018",
+      "industry": "Chemicals"
+    },
+    "IGIIL": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com",
+        "email": "igil.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/international-gemmological-institute-india-limited_86157.html",
+      "lot_size": 35,
+      "isin": "INE0Q9301021",
+      "industry": "Diamond & Jewellery"
+    },
+    "IKIO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "ikiolighting.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2023/ikio-lighting-limited-rhp_71907.html",
+      "lot_size": 52,
+      "isin": "INE0LOJ01019"
+    },
+    "IKS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited ",
+        "email": "ikshealth.ipo@linkintime.co.in",
+        "contact_number": "+ 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/inventurus-knowledge-solutions-limited-rhp_89354.html",
+      "lot_size": 11,
+      "isin": "INE115Q01022",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "INDGN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "indegene.ipo@linkintime.co.in",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://resources.indegene.com/indegene/investor-relations/investor-update/red-herring-prospectus/indegene-limited-red-herring-prospectus.pdf",
+      "lot_size": 33,
+      "isin": "INE065X01017"
+    },
+    "INDIASHLTR": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "indiashelter.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 30,
+      "isin": "INE922K01024"
+    },
+    "INDIGOPNTS": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "www.linkintime.co.in",
+        "email": "indigopaints.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Link Intime India Private Ltd.",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 10,
+      "isin": "INE09VQ01012"
+    },
+    "INDIQUBE": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "indiqubespaces.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.icicisecurities.com/Upload/ArticleAttachments/RHP%20-%20Indiqube%20Spaces%20Limited.pdf",
+      "lot_size": 63,
+      "isin": "INE06ST01018"
+    },
+    "INDOFARM": {
+      "registrar": {
+        "name": "MAS Services Limited",
+        "email": "ipo@masserv.com",
+        "contact_number": "011-26387281-83, 011-41320335",
+        "contact_name": "N.C. Pal",
+        "short": "MAS"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/indo-farm-equipment-limited-rhp_90121.html",
+      "lot_size": 69,
+      "isin": "INE622H01018",
+      "industry": "Agriculture"
+    },
+    "INNOVACAP": {
+      "registrar": {
+        "name": "Kfin Technologies Limited ",
+        "email": "innovacaptab.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/innova-captab-limited-rhp_79995.html",
+      "lot_size": 33,
+      "isin": "INE0DUT01020"
+    },
+    "INNOVISION": {
+      "registrar": {
+        "name": "KFIN TECHNOLOGIES LIMITED",
+        "website": "https://www.kfintech.com/",
+        "email": "innovision.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 222",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/innovision-limited-rhp_100105.html",
+      "lot_size": 27,
+      "isin": "INE0ADB01012"
+    },
+    "INOXGREEN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "igesl.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/inox-green-energy-services-limited-rhp_64663.html",
+      "lot_size": 230,
+      "isin": "INE510W01014"
+    },
+    "INOXINDIA": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "inox.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000 ",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/inox-green-energy-services-limited-addendum-to-rhp_64980.html",
+      "lot_size": 22,
+      "isin": "INE616N01034"
+    },
+    "INTERARCH": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "interarch.ipo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/interarch-building-products-limited-rhp_85658.html",
+      "lot_size": 16,
+      "isin": "INE00M901018"
+    },
+    "IPL": {
+      "registrar": {
+        "name": "KFin Technologies Pvt. Ltd.",
+        "email": "investor@indiapesticideslimited.com",
+        "contact_number": "+91 0522 2653602 ",
+        "contact_name": "Mr. Ajeet Pandey",
+        "short": "KFin Technologies Pvt. Ltd."
+      },
+      "lot_size": 50,
+      "isin": "INE0D6701023"
+    },
+    "IREDA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "indianrenergy@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/indian-renewable-energy-development-agency-limited-rhp_79087.html",
+      "lot_size": 460,
+      "isin": "INE202E01016"
+    },
+    "IRMENERGY": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "irmenergy.ipo@linkintime.co.in",
+        "contact_number": "91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/irm-energy-limited-drhp_66245.html",
+      "lot_size": 29,
+      "isin": "INE07U701015"
+    },
+    "IVALUE": {
+      "registrar": {
+        "name": "KFIN TECHNOLOGIES LIMITED",
+        "website": "https://www.kfintech.com/",
+        "email": "Ivalue.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1758005828714.pdf",
+      "lot_size": 50,
+      "isin": "INE056801025",
+      "industry": "IT - Networking"
+    },
+    "IXIGO": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "ixigo.ipo@linkintime.co.in",
+        "contact_number": "(+91) 81081 14949 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/wp-content/uploads/Le-Travenues-Technology-Limited-RHP.pdf",
+      "lot_size": 161,
+      "isin": "INE0HV901016"
+    },
+    "JAINREC": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "jainresource.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1758262501785.pdf",
+      "lot_size": 64,
+      "isin": "INE0YD401026",
+      "industry": "Metal - Non Ferrous"
+    },
+    "JARO": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 022 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/September-17-2025-JARO-INSTITUTE-OF-TECHNOLOGY-MANAGEMENT-AND-RESEARCH-LIMITED-RHP.pdf",
+      "lot_size": 16,
+      "isin": "INE00YJ01010",
+      "industry": "Educational Institutions"
+    },
+    "JGCHEM": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "jgchemicals.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/j-g-chemicals-limited-red-herring-prospectus_81836.html",
+      "lot_size": 67,
+      "isin": "INE0MB501011"
+    },
+    "JKIPL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 226263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1757995566919.pdf",
+      "lot_size": 120,
+      "isin": "INE1FF001016"
+    },
+    "JLHL": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "jupiterlife.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.icicisecurities.com/Upload/ArticleAttachments/Jupiter%20Lifelines%20Hospital%20Limited%20-%20RHP.pdf",
+      "lot_size": 20,
+      "isin": "INE682M01012"
+    },
+    "JNKINDIA": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "jnkindia.ipo@linkintime.co.in",
+        "contact_number": "+ 91 22 4918 6000",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 36,
+      "isin": "INE0OAF01028"
+    },
+    "JSFB": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "jana.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/jana-small-finance-bank-limited-rhp_81025.html",
+      "lot_size": 36,
+      "isin": "INE953L01027"
+    },
+    "JSWCEMENT": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com",
+        "email": "jswcement.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/jsw-cement-red-herring-prospectus_compressed (1).pdf",
+      "lot_size": 102,
+      "isin": "INE718I01012",
+      "industry": "Cement & Construction Materials"
+    },
+    "JSWINFRA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "jswinfrastructure.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2023/jsw-infrastructure-limited-drhp_71056.html",
+      "lot_size": 126,
+      "isin": "INE880J01026"
+    },
+    "JUNIPER": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "jhl.ipo@kfintech.com",
+        "contact_number": " 04067162222, 04079611000",
+        "contact_name": " M.Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/juniper-hotels-limited-rhp_81407.html",
+      "lot_size": 40,
+      "isin": "INE696F01016"
+    },
+    "JYOTICNC": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "jyoticnc.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 45,
+      "isin": "INE980O01016"
+    },
+    "KAHAN": {
+      "registrar": {
+        "name": "Purva Sharegistry India Pvt Ltd",
+        "website": "https://www.purvashare.com/queries/",
+        "email": "support@purvashare.com",
+        "contact_number": "+91-022-23018261",
+        "contact_name": "Deepali Dhuri",
+        "short": "Purva Sharegistry India Pvt Ltd"
+      },
+      "rhp_url": "https://kpackltd.com/wp-content/uploads/2023/06/Kahan_Packaging_Limited_DP.pdf",
+      "lot_size": 1600,
+      "isin": "INE04T901017"
+    },
+    "KALAMANDIR": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "lot_size": 67,
+      "isin": "INE438K01021"
+    },
+    "KALPATARU": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "kalpataru.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/kalpataru-limited-rhp_94679.html",
+      "lot_size": 36,
+      "isin": "INE227J01012",
+      "industry": "Construction - Real Estate"
+    },
+    "KALYAN": {
+      "registrar": {
+        "name": "Link Intime",
+        "email": "kalyan.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime"
+      },
+      "lot_size": 172,
+      "isin": "INE303R01014"
+    },
+    "KAYNES": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "kaynes.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/kaynes-technology-india-limited-rhp_64779.html",
+      "lot_size": 25,
+      "isin": "INE918Z01012"
+    },
+    "KFINTECH": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "http://www.bigshareonline.com/",
+        "email": "kfintechipo@bigshareonline.com",
+        "contact_number": " +91 022 62638200",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/kfin-technologies-limited-rhp_66170.html",
+      "lot_size": 40,
+      "isin": "INE138Y01010"
+    },
+    "KIMS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "cs@kimshospitals.com",
+        "contact_number": "+91 40 4418 6000",
+        "contact_name": "Mr. Umashankar Manth",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 18,
+      "isin": "INE967H01017"
+    },
+    "KISSHT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "kissht.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "https://www.nuvama.com/wp-content/uploads/2026/04/Project-NorthStar-RHP-Filing-version.pdf",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.nuvama.com/wp-content/uploads/2026/04/Project-NorthStar-RHP-Filing-version.pdf",
+      "lot_size": 87,
+      "isin": "INE12F801023",
+      "industry": "Finance - NBFC"
+    },
+    "KNACK": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "knackpackaging.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://knackpackaging.com/INV/KnackPackagingLimited-RHP.pdf",
+      "lot_size": 88,
+      "isin": "INE17QZ01016",
+      "industry": "Packaging"
+    },
+    "KOTYARK": {
+      "registrar": {
+        "name": "KFIN Technologies Private Limited",
+        "website": "+91-40-6716-2222",
+        "email": "kotyark.ipo@kfintech.com",
+        "contact_number": "+91-40-6716-2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFIN Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/kotyark-industries-limited-sme-issue-prospectus_53322.html",
+      "lot_size": 2000,
+      "isin": "INE0J0B01017"
+    },
+    "KOURA": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "ccl.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000 ",
+        "contact_name": "Mr. M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.bseindia.com/corporates/download/300094/SME_IPO%20Open/KOURA_FINE_DIAMOND_JEWELRY_LIMITED-Prospectus_20240304130120.pdf",
+      "lot_size": 2000,
+      "isin": "INE0M8R01011"
+    },
+    "KPGEL": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91-22-6263 8200 ",
+        "contact_name": "Vinayak Morbale ",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "lot_size": 1000,
+      "isin": "INE0QVH01025"
+    },
+    "KRN": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91 22-62638200",
+        "contact_name": "Mr. Babu Rapheal C",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/krn-heat-exchanger-and-refrigeration-limited-rhp_86708.html",
+      "lot_size": 65,
+      "isin": "INE0Q3J01015"
+    },
+    "KRONOX": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "klsl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2024/kronox-lab-sciences-limited-rhp_83622.html",
+      "lot_size": 110,
+      "isin": "INE0ATZ01017"
+    },
+    "KROSS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "krosslimited.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M.Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/kross-limited-rhp_86406.html",
+      "lot_size": 62,
+      "isin": "INE0O6601022"
+    },
+    "KRSNAA": {
+      "registrar": {
+        "name": "KFin Technologies Pvt Ltd",
+        "website": "+91 020 4695 4695",
+        "email": "cs@krsnadiagnostics.com",
+        "contact_number": "+91 020 4695 4695",
+        "contact_name": "Manisha Chitgopekar",
+        "short": "KFin Technologies Pvt Ltd"
+      },
+      "lot_size": 15,
+      "isin": "INE08LI01020"
+    },
+    "KRYSTAL": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "krystalintegrated.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/krystal-integrated-services-limited-rhp_82069.html",
+      "lot_size": 20,
+      "isin": "INE0QN801017"
+    },
+    "KSHINTL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "ksh@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://kshinternational.com/investor-relations-documents/Red%20Herring%20Prospectus_10.12.2025.pdf",
+      "lot_size": 39,
+      "isin": "INE987S01020",
+      "industry": "Electric Equipment"
+    },
+    "KUSUMGAR": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited ",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91 22 6263 8200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/kusumgar-limited-rhp_102510.html",
+      "lot_size": 35,
+      "isin": "INE0ISX01025",
+      "industry": "Textile"
+    },
+    "LANDMARK": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "landmark.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2022/landmark-cars-limited_55417.html",
+      "lot_size": 29,
+      "isin": "INE559R01029"
+    },
+    "LASERPOWER": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "laserpower.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://laserpowerinfra.com/wp-content/uploads/2026/07/Red-Herring-Prospectus.pdf",
+      "lot_size": 70,
+      "isin": "INE17IR01028",
+      "industry": "Cable"
+    },
+    "LATENTVIEW": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "+91 022 4918 6200",
+        "email": "latentview.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/latent-view-analytics-limited_53786.html",
+      "lot_size": 76,
+      "isin": "INE0I7C01011"
+    },
+    "LAXMIDENTL": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMTIED",
+        "email": "laxmidental.ipo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2025/laxmi-dental-limited-rhp_90604.html",
+      "lot_size": 33,
+      "isin": "INE0WO601020",
+      "industry": "Medical Equipment/Supplies/Accessories"
+    },
+    "LAXMIINDIA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "laxmifinance.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/laxmi-india-finance-limited-rhp_95526.html",
+      "lot_size": 94,
+      "isin": "INE06WU01026",
+      "industry": "Finance - NBFC"
+    },
+    "LENSKART": {
+      "registrar": {
+        "name": "MUFG Intime India  Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "lenskart.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949  ",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "lot_size": 37,
+      "isin": "INE956O01016",
+      "industry": "Retailing"
+    },
+    "LGEINDIA": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "lgelectronics.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222/ 1800 309 4001",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/LG%20Electronics%20India%20Limited-RHP-1759225443.pdf",
+      "lot_size": 13,
+      "isin": "INE324D01010",
+      "industry": "Consumer Durables - Electronics"
+    },
+    "LICI": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "lic.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murli Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2022/life-insurance-corporation-of-india_58414.html",
+      "lot_size": 15,
+      "isin": "INE0J1Y01017"
+    },
+    "LODHA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "macrotech.ipo@linkintime.co.in",
+        "contact_number": "022 49186200",
+        "contact_name": "Mr. Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 30,
+      "isin": "INE670K01029"
+    },
+    "LOTUSDEV": {
+      "registrar": {
+        "name": "KFIN TECHNOLOGIES  LIMITED",
+        "website": "https://www.kfintech.com/",
+        "email": "srilotus.ipo@kfintech.com",
+        "contact_number": "+91 40671  62222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Sri Lotus _ RHP.pdf",
+      "lot_size": 100,
+      "isin": "INE0V9Q01010",
+      "industry": "Construction - Real Estate"
+    },
+    "LXCHEM": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "laxmiorganic.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 115,
+      "isin": "INE576O01020"
+    },
+    "MAMATA": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/Initial_Offer",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Nikhil Shah",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/mamata-machinery-limited-rhp_89832.html",
+      "lot_size": 61,
+      "isin": "INE0TO701015",
+      "industry": "Packaging"
+    },
+    "MANBA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "manbafinanceipo@linkintime.co.in",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/manba-finance-limited-rhp_86780.html",
+      "lot_size": 125,
+      "isin": "INE939X01013"
+    },
+    "MANKIND": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "mankind.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2022/mankind-pharma-ltd-drhp_63010.html",
+      "lot_size": 13,
+      "isin": "INE634S01028"
+    },
+    "MANYAVAR": {
+      "registrar": {
+        "name": "Kfin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "manyavar.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2022/vedant-fashions-limited_55528.html",
+      "lot_size": 17,
+      "isin": "INE825V01034"
+    },
+    "MAPMYINDIA": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "https://linkintime.co.in/",
+        "email": "ceinfo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2021/c-e-info-systems-limited-drhp_52321.html",
+      "lot_size": 14,
+      "isin": "INE0BV301023"
+    },
+    "MBEL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited (Link Intime)",
+        "website": "https://linkintime.co.in/Initial_Offer",
+        "email": "mbengg.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Ms. Shanti Gopalkrishnan",
+        "short": "MUFG "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/mandb-engineering-limited-rhp_95585.htm",
+      "lot_size": 38,
+      "isin": "INE08N601015",
+      "industry": "Engineering"
+    },
+    "MEDIASSIST": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "medi.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2024/medi-assist-healthcare-services-limited-rhp_80543.html",
+      "lot_size": 35,
+      "isin": "INE456Z01021"
+    },
+    "MEDPLUS": {
+      "registrar": {
+        "name": "KFin Technologies Pvt Ltd",
+        "website": "https://karisma.kfintech.com/",
+        "email": "medplus.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Pvt Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/medplus-health-services-limited_54472.html",
+      "lot_size": 18,
+      "isin": "INE804L01022"
+    },
+    "MEESHO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "meesho.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/kib-cms/sites/default/files/offer-documets/Meesho%20Limited%20-%20RHP_vf.pdf",
+      "lot_size": 135,
+      "isin": "INE0VDM01015",
+      "industry": "e-Commerce"
+    },
+    "MEIL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91  22 62638200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Red Herring Prospectus - Mangal Electrical Industries Limited.pdf",
+      "lot_size": 26,
+      "isin": "INE0PKD01011",
+      "industry": "Engineering - Construction"
+    },
+    "METROBRAND": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "https://linkintime.co.in/",
+        "email": "metrobrands.ipo@linkintime.co.in",
+        "contact_number": "+91  022 4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/metro-brands-limited_54434.html",
+      "lot_size": 30,
+      "isin": "INE317I01021"
+    },
+    "MIDWESTLTD": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "midwest.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2025/midwest-limited-rhp_97222.html",
+      "lot_size": 14,
+      "isin": "INE0XAD01024",
+      "industry": "Mining & Minerals"
+    },
+    "MML": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "muthoot.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 51,
+      "isin": "INE046W01019"
+    },
+    "MOBIKWIK": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "mobikwik.ipo@linkintime.co.in",
+        "contact_number": " +91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/one-mobikwik-systems-limited-rhp_89348.html",
+      "lot_size": 53,
+      "isin": "INE0HLU01028",
+      "industry": "Finance - Others"
+    },
+    "MOTISONS": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "motisons.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Mr.Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 250,
+      "isin": "INE0FRK01012"
+    },
+    "MTAR": {
+      "registrar": {
+        "name": "KFintech Private Limited",
+        "email": "mtar.ipo@kfintech.com",
+        "contact_number": "+91 40 67162222",
+        "contact_name": "Murali Krishna",
+        "short": "KFintech Private Limited"
+      },
+      "lot_size": 26,
+      "isin": "INE864I01014"
+    },
+    "MUFTI": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "credobrands.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2023/credo-brands-marketing-limited-rhp_79859.html",
+      "lot_size": 53,
+      "isin": "INE220Q01020"
+    },
+    "MUKKA": {
+      "registrar": {
+        "name": "Cameo Corporate Services Limited",
+        "email": "priya@cameoindia.com",
+        "contact_number": "+91-44-28460390",
+        "contact_name": "K Sreepriya",
+        "short": "Cameo Corporate Services Limited"
+      },
+      "lot_size": 535,
+      "isin": "INE0CG401037"
+    },
+    "MVGJL": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "rhp_url": "https://elaracapital.com/wp-content/uploads/2023/09/Red-Herring-Prospectus-Manoj-Vaibhav-Gems-N-Jewellers.pdf",
+      "lot_size": 69,
+      "isin": "INE0KNT01012"
+    },
+    "NAZARA": {
+      "registrar": {
+        "name": "Link Intime",
+        "email": "nazara.ipo@linkintime.co.in",
+        "contact_number": "022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime"
+      },
+      "lot_size": 13,
+      "isin": "INE418L01021"
+    },
+    "NEPHROPLUS": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "nephrocare.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna ",
+        "short": "KFIN"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/NEPHROCARE HEALTH SERVICES LIMITED RHP_compressed.pdf",
+      "lot_size": 32,
+      "isin": "INE428V01029",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "NETWEB": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/",
+        "email": "netwebtechnologies.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.iiflcap.com/Upload/InvestmentBanking/Prospects/Netweb_Technologies_India_Limited_-_RHP.pdf",
+      "lot_size": 30,
+      "isin": "INE0NT901020"
+    },
+    "NIDAN": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 62638200",
+        "contact_name": "Mr. Babu Raphel",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www1.nseindia.com/content/ipo/RHP_NIDAN.zip",
+      "lot_size": 1000,
+      "isin": "INE0J6L01013"
+    },
+    "NIVABUPA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "nivabupa.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2024/niva-bupa-health-insurance-company-limited_84557.html",
+      "lot_size": 200,
+      "isin": "INE995S01015",
+      "industry": "Insurance"
+    },
+    "NORTHARC": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "email": "nacl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited "
+      },
+      "rhp_url": "https://nsearchives.nseindia.com/content/ipo/RHP_NORTHARC.zip",
+      "lot_size": 57,
+      "isin": "INE850M01015"
+    },
+    "NOVAAGRI": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200 ",
+        "contact_name": "Jibu John",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2024/nova-agritech-limited-rhp_80635.html",
+      "lot_size": 365,
+      "isin": "INE02H701025"
+    },
+    "NSDL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited (Link Intime)",
+        "website": "https://linkintime.co.in",
+        "email": "nsdl.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG "
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/National%20Securities%20Depository%20Limited-RHP-1753330976.pdf",
+      "lot_size": 18,
+      "isin": "INE301O01023",
+      "industry": "Finance - Stock Broking"
+    },
+    "NTPCGREEN": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "ntpcgreen.ipo@kfintech.com",
+        "contact_number": "+9140 67162222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/ntpc-green-energy-limited-rhp_88431.html",
+      "lot_size": 138,
+      "isin": "INE0ONG01011",
+      "industry": "Power Generation/Distribution"
+    },
+    "NUVOCO": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "+91 22 6630 6511",
+        "email": "investor.relations@nuvoco.com",
+        "contact_number": "+91 22 6630 6511",
+        "contact_name": "Shruta Sanghavi",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 26,
+      "isin": "INE118D01016"
+    },
+    "NYKAA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "nykaa.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/fsn-e-commerce-ventures-limited-rhp_53384.html",
+      "lot_size": 12,
+      "isin": "INE388Y01029"
+    },
+    "OLAELEC": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "olaelectric.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 195,
+      "isin": "INE0LXG01040"
+    },
+    "OMFREIGHT": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "022 - 6263 8200",
+        "contact_name": "Babu Rapheal C",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://omfreight.com/wp-content/uploads/2025/09/OM-Freight_RHP.pdf",
+      "lot_size": 111,
+      "isin": "INE1BZC01019",
+      "industry": "Logistics"
+    },
+    "OMNI": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "omnitechengineering.ipo@in.mpms",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/omnitech_engineering_limited_red_herring_prospectus_1fcf868f96.pdf",
+      "lot_size": 66,
+      "isin": "INE0UH301010",
+      "industry": "Engineering"
+    },
+    "OMPOWER": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "ompower.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/rhp_optl.pdf",
+      "lot_size": 85,
+      "isin": "INE25E901019",
+      "industry": "Engineering - Construction"
+    },
+    "ORIENTTECH": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "orienttech.ipo@linkintime.co.in",
+        "contact_number": " +91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/orient-technologies-limited-drhp_81751.html",
+      "lot_size": 72,
+      "isin": "INE0PPK01015"
+    },
+    "ORKLAINDIA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "orklaindia.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.orklaindia.com/wp-content/uploads/sites/3/2025/10/Orkla-India-RHP-Document.pdf",
+      "lot_size": 20,
+      "isin": "INE16NZ01023",
+      "industry": "Consumer Food"
+    },
+    "OSWALPUMPS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://www.linkintime.co.in/",
+        "email": "oswalpumps.ipo@linkintime.co.in",
+        "contact_number": "+ 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/oswal-pumps-limited-rhp_94507.html",
+      "lot_size": 24,
+      "isin": "INE0BYP01024",
+      "industry": "Engineering - Industrial Equipments"
+    },
+    "PACEDIGITK": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "pacedigitek.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2025/pace-digitek-limited-rhp_96742.html",
+      "lot_size": 68,
+      "isin": "INE0S3G01027",
+      "industry": "Telecommunication - Service Provider"
+    },
+    "PARADEEP": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "ppl.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/paradeep-phosphates-limited-red-herring-prospectus_58858.html",
+      "lot_size": 350,
+      "isin": "INE088F01024"
+    },
+    "PARKHOSPS": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "parkmedi.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2025/park-medi-world-limited_98190.html",
+      "lot_size": 92,
+      "isin": "INE119201023",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "PARKHOTELS": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "parkhotels.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/apeejay-surrendra-park-hotels-limited-rhp_81048.html",
+      "lot_size": 96,
+      "isin": "INE988S01028"
+    },
+    "PATELRMART": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "022-62638200",
+        "contact_name": "Babu Rapheal",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/patel-retail-limited-rhp_95942.html",
+      "lot_size": 58,
+      "isin": "INE0R8B01010",
+      "industry": "Retailing"
+    },
+    "PAYTM": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "paytm.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/one-97-communications-limited_53567.html",
+      "lot_size": 6,
+      "isin": "INE982J01020"
+    },
+    "PDSTL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "+91 22 6919 9999",
+        "email": "ir@parasdefence.com",
+        "contact_number": "+91 22 6919 9999",
+        "contact_name": "Ajit Sharma",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 85,
+      "isin": "INE045601015"
+    },
+    "PHYSICS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "physicswallah.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/kib-cms/sites/default/files/offer-documets/Physicswallah%20Limited_RHP_vf.pdf",
+      "lot_size": 137,
+      "isin": "INE0LP301011",
+      "industry": "Educational Institutions"
+    },
+    "PINELABS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "einward.ris@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2025/pine-labs-ltd-rhp_97584.html",
+      "lot_size": 67,
+      "isin": "INE15B701018",
+      "industry": "Finance - Others"
+    },
+    "PKH": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "pkh.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/pkh-ventures-limited_57108.html",
+      "lot_size": 100,
+      "isin": "INE0J4A01011"
+    },
+    "PLATINUM": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2024/platinum-industries-limited-rhp_81623.html",
+      "lot_size": 87,
+      "isin": "INE0PT501018"
+    },
+    "PNGJL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-62638200",
+        "contact_name": "Vinayak Morbale",
+        "short": "Bigshare Services Private Limited"
+      },
+      "lot_size": 31,
+      "isin": "INE953R01016"
+    },
+    "PNGSREVA": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 62638200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/RHP - PNGS REVA DIAMOND JEWELLERY LIMITED.pdf",
+      "lot_size": 32,
+      "isin": "INE1RDG01013",
+      "industry": "Diamond & Jewellery"
+    },
+    "POLICYBZR": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "policybazaar.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/pb-fintech-limited-rhp_53558.html",
+      "lot_size": 15,
+      "isin": "INE417T01026"
+    },
+    "POWERICA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "powerica.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/powerica-limited-rhp_100434.html",
+      "lot_size": 37,
+      "isin": "INE921L01032",
+      "industry": "Power Generation/Distribution"
+    },
+    "PREMIERENE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kosmic.kfintech.com/ipostatus/",
+        "email": "pel.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/downloads/premier-energies-limited-RHP.pdf",
+      "lot_size": 33,
+      "isin": "INE0BS701011"
+    },
+    "PROSTARM": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com",
+        "email": "pisl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222 / 1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://cmsapi.choiceindia.com/assets/65087151-032a-45a5-b0df-2955c2b3ad0b",
+      "lot_size": 142,
+      "isin": "INE0BX301013",
+      "industry": "Power Generation/Distribution"
+    },
+    "PROTEAN": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "protean.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.icicisecurities.com/Upload/ArticleAttachments/Protean%20eGOV%20Technologies%20Limited.pdf",
+      "lot_size": 18,
+      "isin": "INE004A01022"
+    },
+    "PRUDENT": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "prudent.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/prudent-corporate-advisory-services-limited-red-herring-prospectus_58645.html",
+      "lot_size": 23,
+      "isin": "INE00F201020"
+    },
+    "PVSL": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "popularvehicles.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270 ",
+        "contact_name": "Gopal Shantikrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/popular-vehicles-and-services-ltd-rhp_82068.html",
+      "lot_size": 50,
+      "isin": "INE772T01024"
+    },
+    "PWL": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "plazawires.ipo@kfintech.com",
+        "contact_number": "04079611000",
+        "contact_name": "M Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "http://www.plazawires.in/documents/rhp.pdf",
+      "lot_size": 277,
+      "isin": "INE0INJ01017"
+    },
+    "PYRAMID": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "lot_size": 90,
+      "isin": "INE0MIS01010"
+    },
+    "QPOWER": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "email": "qualitypower.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2025/quality-power-electrical-equipments-limited-rhp_91767.html",
+      "lot_size": 26,
+      "isin": "INE0SII01026",
+      "industry": "Electric Equipment"
+    },
+    "QUADFUTURE": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "quadrant.ipo@linkintime.co.in",
+        "contact_number": " + 91 81 0811 4949",
+        "contact_name": "Pradnya Karanjekar",
+        "short": "LINK"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Annexure_A_Red_Herring_Prospectus.pdf",
+      "lot_size": 50,
+      "isin": "INE0LRY01011",
+      "industry": "Engineering"
+    },
+    "RADIANTCMS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "radiant.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/radiant-cash-management-services-limited-rhp_66340.html",
+      "lot_size": 150,
+      "isin": "INE855R01021"
+    },
+    "RAINBOW": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://karisma.kfintech.com/",
+        "email": "rcml.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Limited "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2022/rainbow-childrens-medicare-limited_58231.html",
+      "lot_size": 27,
+      "isin": "INE961O01016"
+    },
+    "RAMBHAJO": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited ",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-62638200 ",
+        "contact_name": "Mr. Babu Rapheal C ",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/advit-jewels-limited-rhp_102061.html",
+      "lot_size": 100,
+      "isin": "INE1SJO01012",
+      "industry": "Diamond & Jewellery"
+    },
+    "RATEGAIN": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "rategain.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/rategain-travel-technologies-limited_54305.html",
+      "lot_size": 35,
+      "isin": "INE0CLI01024"
+    },
+    "RATNAVEER": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://www.linkintime.co.in",
+        "email": "ratnaveerprecision.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://reports.chittorgarh.com/ipo_notes/RATNAVEER-PRECISION-ENGINEERING-LIMITED-RHP.pdf",
+      "lot_size": 150,
+      "isin": "INE05CZ01011"
+    },
+    "RBZJEWEL": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": "Babu Rapheal",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "lot_size": 150,
+      "isin": "INE0PEQ01016"
+    },
+    "REGAAL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited (Link Intime)",
+        "website": "https://linkintime.co.in",
+        "email": "regaalresources.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/regaal-resources-limited-rhp_95894.html",
+      "lot_size": 144,
+      "isin": "INE0MHO01029",
+      "industry": "Consumer Food"
+    },
+    "RIIT": {
+      "registrar": {
+        "name": "KFIN TECHNOLOGIES LIMITED",
+        "website": "https://www.kfintech.com/",
+        "email": "riimpl.invit@kfintech.com",
+        "contact_number": " +91 1800 309 4001 / +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/invit-public-issues/feb-2026/raajmarg-infra-investment-trust_100062.html",
+      "lot_size": 150,
+      "isin": "INE2PB023011"
+    },
+    "RISHABH": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "rishabh.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.damcapital.in/files/pdf/638284813100168984_Rishabh_Instruments_Limited_-_RHP_compressed.pdf",
+      "lot_size": 34,
+      "isin": "INE0N2P01017"
+    },
+    "RKSWAMY": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "rkswamy.ipo@motilaloswal.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 50,
+      "isin": "INE0NQ801033"
+    },
+    "ROLEX": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "0281 6699677/577",
+        "email": "compliance@rolexrings.com",
+        "contact_number": "0281 6699677/577",
+        "contact_name": "Hardik Dhimantbhai Gandhi",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 16,
+      "isin": "INE645S01016"
+    },
+    "ROUTE": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "www.linkintime.co.in",
+        "email": "nureca.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 40,
+      "isin": "INE450U01017"
+    },
+    "RPTECH": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "rptechindia.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2024/rashi-peripherals-limited-rhp_80971.html",
+      "lot_size": 48,
+      "isin": "INE0J1F01024"
+    },
+    "RRKABEL": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/",
+        "email": "rkabel.ipo@linkintime.co.in",
+        "contact_number": " +91 22 4918 6000",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 14,
+      "isin": "INE777K01022"
+    },
+    "RSL": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "rsl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/rajputana-stainless-limited-rhp_100081.html",
+      "lot_size": 110,
+      "isin": "INE313L01016",
+      "industry": "Steel & Iron Products"
+    },
+    "RUBICON": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "rubicon.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.rubicon.co.in/pdf/RHP.pdf",
+      "lot_size": 30,
+      "isin": "INE506V01022",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "RUCHISOYA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited ",
+        "website": "https://linkintime.co.in/",
+        "email": "ruchisoya.fpo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "Link Intime India Private Limited "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/ruchi-soya-industries-limited_56884.html",
+      "lot_size": 21,
+      "isin": "INE619A01035"
+    },
+    "RUSTOMJEE": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "rustomjee.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/keystone-realtors-limited-rhp_64760.html",
+      "lot_size": 27,
+      "isin": "INE263M01029"
+    },
+    "SAATVIK": {
+      "registrar": {
+        "name": "Kfin Technologies Ltd.",
+        "website": "https://ipostatus.kfintech.com/",
+        "email": "saatvik.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M. Murali Krishna ",
+        "short": "Karvy"
+      },
+      "rhp_url": "https://saatvikgroup.com/wp-content/uploads/2025/09/Red-Herring-Prospectus.pdf",
+      "lot_size": 32,
+      "isin": "INE13B501022"
+    },
+    "SAGILITY": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "sagility.ipo@linkintime.co.in",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/sagility-india-limited-rhp_88101.html",
+      "lot_size": 500,
+      "isin": "INE0W2G01015",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "SAH": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "Sahpolymers.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/sah-polymers-limited-rhp_66516.html",
+      "lot_size": 230,
+      "isin": "INE035801013"
+    },
+    "SAILIFE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "sailifesciences.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/sai-life-sciences-limited-rhp_89347.html",
+      "lot_size": 27,
+      "isin": "INE570L01029",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "SAIPARENT": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal ",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2026/sai-parenteral-s-limited-rhp_100427.html",
+      "lot_size": 38,
+      "isin": "INE0H9F01037",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "SAMBHV": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "sstl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M.Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2025/sambhv-steel-tubes-limited-rhp_94680.html",
+      "lot_size": 182,
+      "isin": "INE12NJ01018",
+      "industry": "Steel & Iron Products"
+    },
+    "SAMHI": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "samhihotels.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/samhi-hotels-limited-rhp_76526.html",
+      "lot_size": 119,
+      "isin": "INE08U801020"
+    },
+    "SANATHAN": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "stl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali  Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/sanathan-textiles-limited-rhp_89960.html",
+      "lot_size": 46,
+      "isin": "INE0JPD01013",
+      "industry": "Textile"
+    },
+    "SANSERA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "+91 80 2783 9081",
+        "email": "rajesh.modi@sansera.in",
+        "contact_number": "+91 80 2783 9081",
+        "contact_name": "Rajesh Kumar Modi",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 20,
+      "isin": "INE953O01021"
+    },
+    "SANSTAR": {
+      "registrar": {
+        "name": "Linkintime India Private Limited",
+        "email": "sanstar.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": " Shanti Gopalkrishnan",
+        "short": "Linkintime India Private Limited"
+      },
+      "rhp_url": "https://pantomath-web.s3.ap-south-1.amazonaws.com/Sanstar-Limited-RHP.PDF",
+      "lot_size": 150,
+      "isin": "INE08NE01025"
+    },
+    "SAPPHIRE": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "+91 022 4918 6200",
+        "email": "sapphire.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/sapphire-foods-india-limited_53624.html",
+      "lot_size": 12,
+      "isin": "INE806T01012"
+    },
+    "SBFC": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com",
+        "email": "Sbfc.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Muralikrishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://investmentbank.kotak.com/downloads/sbfc-finance-limited-RHP.pdf",
+      "lot_size": 260,
+      "isin": "INE423Y01016"
+    },
+    "SBIFUNDS": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "sbifml.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222 ",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sbimf.com/docs/default-source/sbi-funds/offer-documents/rhp-document.pdf",
+      "lot_size": 26,
+      "isin": "INE640G01020",
+      "industry": "Finance - Asset Management"
+    },
+    "SCODATUBES": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "scodatubes.ipo@linkintime.co.in",
+        "contact_number": "+ 91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.mnclgroup.com/storage/scoda-tubes-rhp.pdf",
+      "lot_size": 100,
+      "isin": "INE090501011",
+      "industry": "Steel & Iron Products"
+    },
+    "SEDEMAC": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "sedemac.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sedemac.com/static/media/SEDEMACMECHATRONICSLIMITEDRHP.86f5227defffbdeb10ea.pdf",
+      "lot_size": 11,
+      "isin": "INE00XB01019",
+      "industry": "Electric Equipment"
+    },
+    "SENCO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "sencagold.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2023/senco-gold-limited-rhp_73223.html",
+      "lot_size": 47,
+      "isin": "INE602W01019"
+    },
+    "SENORES": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "senorespharma.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "ShantiGopalkrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/senores-pharmaceuticals-limited-rhp_89951.html",
+      "lot_size": 38,
+      "isin": "INE0RB801010",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "SGLTL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "sgltl.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Standard Glass Lining Technology Limited - RHP.pdf",
+      "lot_size": 107,
+      "isin": "INE0M4D01010",
+      "industry": "Chemicals"
+    },
+    "SHADOWFAX": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "shadowfax.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/18003094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "lot_size": 120,
+      "isin": "INE12UN01015",
+      "industry": "Logistics"
+    },
+    "SHANTIGOLD": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal C.",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://shantigold.in/wp-content/uploads/2025/07/Shanti-Gold-International-Ltd_RHP.pdf",
+      "lot_size": 75,
+      "isin": "INE06ZD01017",
+      "industry": "Diamond & Jewellery"
+    },
+    "SHREEJISPG": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-62638200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/shreeji-shipping-rhp.pdf",
+      "lot_size": 58,
+      "isin": "INE1B6101010",
+      "industry": "Shipping"
+    },
+    "SHRINGARMS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "shrinagarhouse.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/shringar-house-of-mangalsutra-limited-rhp.pdf",
+      "lot_size": 90,
+      "isin": "INE1B3L01017",
+      "industry": "Diamond & Jewellery"
+    },
+    "SHRIRAMPPS": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "murali.m@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2021/shriram-properties-limited_54419.html",
+      "lot_size": 125,
+      "isin": "INE217L01019"
+    },
+    "SHYMMETAL": {
+      "registrar": {
+        "name": "KFintech Technologies",
+        "email": "compliance@shyamgroup.com",
+        "contact_number": "+91 33 4016 4000",
+        "contact_name": "Mr. Birendra Kumar Jain",
+        "short": "KFintech Technologies"
+      },
+      "lot_size": 45,
+      "isin": "INE810G01011"
+    },
+    "SIGACHI": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 022 6263 8200",
+        "contact_name": "Mr. Ashish Bhope",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/sigachi-industries-ltd_53491.html",
+      "lot_size": 90,
+      "isin": "INE0D0K01014"
+    },
+    "SIGNATURE": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "website": "https://linkintime.co.in/",
+        "email": "Signatureglobal.ipo@linkintime.co.in",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2023/signatureglobal-india-limited-rhp_76826.html",
+      "lot_size": 38,
+      "isin": "INE903U01023"
+    },
+    "SJS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "sjs.ipo@linkintime.co.in",
+        "contact_number": "+91 022 49186200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2021/sjs-enterprises-ltd-rhp_53518.html",
+      "lot_size": 27,
+      "isin": "INE284S01014"
+    },
+    "SMARTWORKS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "smartwork.ipo@in.mpms.mufg.com",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2025/smartworks-coworking-spaces-limited-rhp_95069.html",
+      "lot_size": 36,
+      "isin": "INE0NAZ01010"
+    },
+    "SOLARWORLD": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "solarworld.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://worldsolar.in/wp-content/uploads/2025/09/RHP.pdf",
+      "lot_size": 42,
+      "isin": "INE0TY101024",
+      "industry": "Power Generation/Distribution"
+    },
+    "SONACOMS": {
+      "registrar": {
+        "name": "KFintech Technologies",
+        "email": "investor@sonacomstar.com",
+        "contact_number": "+91 124 476 8200",
+        "contact_name": "Mr. Ajay Pratap Singh",
+        "short": "KFintech Technologies"
+      },
+      "lot_size": 51,
+      "isin": "INE073K01018"
+    },
+    "SRM": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91-22-6263 8200",
+        "contact_name": "Babu Rapheal C",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2024/srm-contractors-limited-rhp_82450.html",
+      "lot_size": 70,
+      "isin": "INE0R6Z01013"
+    },
+    "SRTL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/feb-2026/shree-ram-twistex-limited-rhp_99765.html",
+      "lot_size": 144,
+      "isin": "INE19GK01015",
+      "industry": "Textile"
+    },
+    "SSDL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "022-62638200",
+        "contact_name": "Babu Rapheal C",
+        "short": "Bigshare Services Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/saraswati-saree-depot-limited-rhp_85538.html",
+      "lot_size": 90,
+      "isin": "INE0PQ101010"
+    },
+    "STALLION": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 62638200",
+        "contact_name": "Mr. Jibu John",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jan-2025/stallion-india-fluorochemicals-limited-rhp_90745.html",
+      "lot_size": 165,
+      "isin": "INE0RYC01010",
+      "industry": "Gas Transmission/Marketing"
+    },
+    "STANLEY": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "sll.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2024/stanley-lifestyles-limited-rhp_84127.html",
+      "lot_size": 40,
+      "isin": "INE01A001028"
+    },
+    "STARHEALTH": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "starhealth.ipo@kfintech.com",
+        "contact_number": "(91 40) 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/star-health-and-allied-insurance-company-limited_54163.html",
+      "lot_size": 16,
+      "isin": "INE575P01011"
+    },
+    "STBAL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "email": "shreetirupatibalajee.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2024/shree-tirupati-balajee-agro-trading-company-limited-rhp_86384.html",
+      "lot_size": 180,
+      "isin": "INE0S2G01011"
+    },
+    "STUDDS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "studds.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.studds.com/Adminpanel/uploads/templates/Studds-Accessories-Limited-Red-Herring-Prospectus.pdf",
+      "lot_size": 25,
+      "isin": "INE00Q601028",
+      "industry": "Auto Ancillary"
+    },
+    "STYL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "seshaasaitechnologies.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Seshaasai-Technologies-Limited-RHP_compressed.pdf",
+      "lot_size": 35,
+      "isin": "INE04VU01023",
+      "industry": "IT - Networking"
+    },
+    "SUDEEPPHRM": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "sudeeppharma.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1763445573741.pdf",
+      "lot_size": 25,
+      "isin": "INE0QPI01025",
+      "industry": "Pharmaceuticals & Drugs"
+    },
+    "SULA": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "einward.ris@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2022/sula-vineyards-limited-rhp_65913.html",
+      "lot_size": 42,
+      "isin": "INE142Q01026"
+    },
+    "SUPRIYA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "supriyalife.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2021/supriya-lifescience-limited_50137.html",
+      "lot_size": 54,
+      "isin": "INE07RO01027"
+    },
+    "SURAJEST": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "surajestate.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "lot_size": 41,
+      "isin": "INE843S01025"
+    },
+    "SURAKSHA": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://kosmic.kfintech.com",
+        "email": "sdl.ipo@kfintech.com",
+        "contact_number": " 04067162222, 04079611000",
+        "contact_name": " M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2024/suraksha-diagnostic-limited-rhp_88772.html",
+      "lot_size": 34,
+      "isin": "INE877V01027",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "SURYODAY": {
+      "registrar": {
+        "name": "KFin Technologies ",
+        "email": "suryodayasfb.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies "
+      },
+      "lot_size": 49,
+      "isin": "INE428Q01011"
+    },
+    "SWIGGY": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "swiggy.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalakrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/swiggy-limited-addendum-to-rhp_88161.html",
+      "lot_size": 38,
+      "isin": "INE00H001014",
+      "industry": "Consumer Food"
+    },
+    "SYRMA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "syrma.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2022/syrma-sgs-technology-ltd-_61790.html",
+      "lot_size": 68,
+      "isin": "INE0DYJ01015"
+    },
+    "TARSONS": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "tarsonsproducts.ipo@kfintech.com",
+        "contact_number": "(91 40) 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/tarsons-products-limited_53811.html",
+      "lot_size": 22,
+      "isin": "INE144Z01023"
+    },
+    "TATACAP": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "tatacapital.ipo@in.mpms.mufg.com",
+        "contact_number": "+ 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2025/tata-capital-limited-rhp_96899.html",
+      "lot_size": 46,
+      "isin": "INE976I01016",
+      "industry": "Finance - Others"
+    },
+    "TATATECH": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "tatatechnologies.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2023/tata-technologies-limited-rhp_79133.html",
+      "lot_size": 30,
+      "isin": "INE142M01025"
+    },
+    "TATVA": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd",
+        "email": "cs@tatvachintan.com",
+        "contact_number": "+91 75748 48533/+91 75748 48534",
+        "contact_name": "Miss. Apurva Dubey",
+        "short": "Link Intime India Pvt. Ltd"
+      },
+      "lot_size": 13,
+      "isin": "INE0GK401011"
+    },
+    "TBOTEK": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "tbo.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M.Murali Krishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2024/tbo-tek-limited-rhp_83137.html",
+      "lot_size": 16,
+      "isin": "INE673O01025"
+    },
+    "TEGA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "TEGA.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2021/tega-industries-limited-rhp_54197.html",
+      "lot_size": 33,
+      "isin": "INE011K01018"
+    },
+    "TENNIND": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "tennecocleanair.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "lot_size": 37,
+      "isin": "INE19RI01016"
+    },
+    "THELEELA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "leelahotels.ipo@kfintech.com",
+        "contact_number": "91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2025/schloss-bangalore-limited-rhp_94063.html",
+      "lot_size": 34,
+      "isin": "INE0AQ201015",
+      "industry": "Hotel"
+    },
+    "TMB": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "tmb.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2021/tamilnad-mercantile-bank-limited_52434.html",
+      "lot_size": 28,
+      "isin": "INE668A01016"
+    },
+    "TOLINS": {
+      "registrar": {
+        "name": "Cameo Corporate Services Limited",
+        "email": "priya@cameoindia.com",
+        "contact_number": " +91-44-28460390",
+        "contact_name": "K. Sreepriya",
+        "short": "Cameo Corporate Services Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/tolins-tyres-limited-rhp_86403.html",
+      "lot_size": 66,
+      "isin": "INE0RWQ01014"
+    },
+    "TRACXN": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "tracxn.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2022/tracxn-technologies-limited_63721.html",
+      "lot_size": 185,
+      "isin": "INE0HMF01019"
+    },
+    "TRANSRAILL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in",
+        "email": "transraillighting.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalakrishnan",
+        "short": "LINK"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/transrail-lighting-limited-rhp_89478.html",
+      "lot_size": 34,
+      "isin": "INE454P01035",
+      "industry": "Power Generation/Distribution"
+    },
+    "TRAVELFOOD": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "travelfood.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "lot_size": 13,
+      "isin": "INE103V01028",
+      "industry": "Travel Services"
+    },
+    "TRUALT": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 4006 9807",
+        "contact_name": "Jibu John",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/638939714387620929_TruAlt_Bioenergy_Limited_-_RHP.pdf",
+      "lot_size": 30,
+      "isin": "INE0MWH01014",
+      "industry": "Industrial Gases & Fuels"
+    },
+    "TURTLEMINT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "turtlemint.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://cdn.turtlemint.com/wp-content/uploads/20260615160850/IFA2047-RHP_June-15-2026.pdf",
+      "lot_size": 98,
+      "isin": "INE0OC301013",
+      "industry": "Finance - Investment"
+    },
+    "TVSSCS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "tvs.ipo@linkintime.co.in",
+        "contact_number": "91 810 811 4949| ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2023/tvs-supply-chain-solutions-limited-rhp_74958.html",
+      "lot_size": 76,
+      "isin": "INE395N01027"
+    },
+    "UDS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "uds.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 50,
+      "isin": "INE851I01011"
+    },
+    "UNIECOM": {
+      "registrar": {
+        "name": "Link InTime India Private Limited",
+        "email": "unicommerce.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link InTime India Private Limited"
+      },
+      "rhp_url": "https://nsearchives.nseindia.com/content/equities/IPO_RHP_UNICOMM.pdf",
+      "lot_size": 138,
+      "isin": "INE00U401027"
+    },
+    "UNIMECH": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "uaml.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/unimech-aerospace-and-engineering-limited-rhp_89989.html",
+      "lot_size": 19,
+      "isin": "INE0U3I01011",
+      "industry": "Engineering"
+    },
+    "UNIPARTS": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "uniparts.ipo@linkintime.co.in",
+        "contact_number": "+91 022 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/nov-2022/uniparts-india-limited-rhp_65438.html",
+      "lot_size": 25,
+      "isin": "INE244O01017"
+    },
+    "URBANCO": {
+      "registrar": {
+        "name": "MUFG Intime India Pvt.Ltd.",
+        "website": "https://linkintime.co.in",
+        "email": "urbancompany.ipo@in.mpms.mufg.com",
+        "contact_number": "+91-22-4918 6270 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/5234",
+      "lot_size": 145,
+      "isin": "INE0CAZ01013"
+    },
+    "USK": {
+      "registrar": {
+        "name": "MAS Services Limited",
+        "website": "http://www.masserv.com",
+        "email": "info@masserv.com",
+        "contact_number": "+91 112 638 7281",
+        "contact_name": "N C Pal",
+        "short": "MAS Services Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2023/udayshivakumar-infra-limited-rhp_68963.html",
+      "lot_size": 428,
+      "isin": "INE0N0Y01013"
+    },
+    "UTKARSHBNK": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://kfintech.com",
+        "email": "utkarsh.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.utkarsh.bank/uploads/home_sidebar_form/Project_Unicorn_Red_Herring_Prospectus_July_6_2023.pdf",
+      "lot_size": 600,
+      "isin": "INE735W01017"
+    },
+    "UTLSOLAR": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "fujiyamapower.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Fujiyama Power Systems Limited - RHP.pdf",
+      "lot_size": 65,
+      "isin": "INE12UR01024",
+      "industry": "Power Generation/Distribution"
+    },
+    "VALIANTLAB": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "valiantlaboratories.ipo@linkintime.co.in",
+        "contact_number": "+91-22-4918 6270",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://valiantlabs.in/wp-content/uploads/2023/09/Red-Herring-Prospectus.pdf",
+      "lot_size": 105,
+      "isin": "INE0JWS01017"
+    },
+    "VENTIVE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "vhl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M.  Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/ventive-hospitality-limited-rhp_89974.html",
+      "lot_size": 23,
+      "isin": "INE781S01027",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "VENUSPIPES": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "https://karisma.kfintech.com/",
+        "email": "venus.ipo@kfintech.com",
+        "contact_number": "+91 040 6716 2222",
+        "contact_name": "M Murli Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/may-2022/venus-pipes-and-tubes-limited-red-herring-prospectus_58649.html",
+      "lot_size": 46,
+      "isin": "INE0JA001018"
+    },
+    "VERANDA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://karisma.kfintech.com",
+        "email": "veranda.ipo@kfintech.com",
+        "contact_number": "+ 91 04067162222",
+        "contact_name": "Mr. M. MuraliKrishna",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/mar-2022/veranda-learning-solutions-ltd_57096.html",
+      "lot_size": 100,
+      "isin": "INE0IQ001011"
+    },
+    "VIDYAWIRES": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "email": "vidyawires.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.vidyawire.com/wp-content/uploads/2025/11/Vidya-Wires-Limited-RHP.pdf",
+      "lot_size": 288,
+      "isin": "INE14UN01029"
+    },
+    "VIJAYA": {
+      "registrar": {
+        "name": "KFin Technologies Private Limited",
+        "website": "+91 40 6716 2222",
+        "email": "vijaya.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin Technologies Private Limited"
+      },
+      "lot_size": 28,
+      "isin": "INE043W01024"
+    },
+    "VIKRAMSOLR": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "vikramsolar.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 22 4918 6200",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/vikram-solar-limited-rhp_96054.html",
+      "lot_size": 45,
+      "isin": "INE078V01014"
+    },
+    "VIKRAN": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91-22-62638200",
+        "contact_name": "Babu Rapheal",
+        "short": "Bigshare"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2025/vikran-engineering-limited-rhp_96174.html",
+      "lot_size": 148,
+      "isin": "INE01R501028",
+      "industry": "Power Generation/Distribution"
+    },
+    "VMM": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "email": "vmm.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "Murali Krishna",
+        "short": "KARVY"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/dec-2024/vishal-mega-mart-red-herring-prospectus_89311.html",
+      "lot_size": 190,
+      "isin": "INE01EA01019",
+      "industry": "Retailing"
+    },
+    "VMSTMT": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "vms.ipo@kfintech.com",
+        "contact_number": "+ 91 40 67162222",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfin"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/vms-tmt-rhp.pdf",
+      "lot_size": 150,
+      "isin": "INE0SJA01013",
+      "industry": "Steel & Iron Products"
+    },
+    "VPRPL": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "vishnuprakashrpunglia.ipo@linkintime.co.in",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 150,
+      "isin": "INE0AE001013"
+    },
+    "VRAJ": {
+      "registrar": {
+        "name": "Bigshare Services Pvt Ltd",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91-22-6263 8200",
+        "contact_name": "Babu Raphael C",
+        "short": "Bigshare Services Pvt Ltd"
+      },
+      "lot_size": 72,
+      "isin": "INE0S2V01010"
+    },
+    "VSTL": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "email": "vibhor.ipo@kfintech.com",
+        "contact_number": "04067162222, 04079611000",
+        "contact_name": "M MuraliKrishna",
+        "short": "Kfin Technologies Limited"
+      },
+      "lot_size": 99,
+      "isin": "INE0QTF01015"
+    },
+    "WAAREEENER": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/initial_offer/public-issues.html",
+        "email": "waaree.ipo@linkintime.co.in",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2024/waaree-energies-limited-rhp_87562.html",
+      "lot_size": 9,
+      "isin": "INE377N01017"
+    },
+    "WAKEFIT": {
+      "registrar": {
+        "name": " MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "wakefitinnovations.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949  ",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": " MUFG "
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Wakefit Innovations Limited - RHP_compressed.pdf",
+      "lot_size": 76,
+      "isin": "INE0E7301029"
+    },
+    "WCIL": {
+      "registrar": {
+        "name": "Link Intime India Private Ltd",
+        "email": "westerncarriers.ipo@linkintime.co.in",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Ltd"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/western-carriers-india-limited-rhp_86645.html",
+      "lot_size": 87,
+      "isin": "INE0CJF01024"
+    },
+    "WEWORK": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "weworkindia.ipo@in.mpms.mufg.com",
+        "contact_number": "+ 91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://wework.co.in/investors-relations/Red%20Herring%20Prospectus.pdf",
+      "lot_size": 23,
+      "isin": "INE085001019"
+    },
+    "WINDLAS": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "website": "+91 135 6608000",
+        "email": "grievance@windlasbiotech.com",
+        "contact_number": "+91 135 6608000",
+        "contact_name": "Ananta Narayan Panda",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 30,
+      "isin": "INE0H5O01029"
+    },
+    "YATHARTH": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "yatharth.ipo@linkintime.co.in",
+        "contact_number": "91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2023/yatharth-hospital-and-trauma-care-services-limited-rhp_74181.html",
+      "lot_size": 50,
+      "isin": "INE0JO301016"
+    },
+    "YATRA": {
+      "registrar": {
+        "name": "Link Intime India Private Limited",
+        "website": "https://linkintime.co.in/",
+        "email": "yatra.ipo@linkintime.co.in",
+        "contact_number": "+91 22 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "Link Intime India Private Limited"
+      },
+      "lot_size": 105,
+      "isin": "INE0JR601024"
+    },
+    "ZAGGLE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://kfintech.com",
+        "email": "zaggle.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna ",
+        "short": "KFin Technologies Limited"
+      },
+      "rhp_url": "https://cdn.zaggle.in/images/web/zaggle/pdf/investor-relations/RHP/zaggle-investing-rhp.pdf",
+      "lot_size": 90,
+      "isin": "INE07K301024"
+    },
+    "ZOMATO": {
+      "registrar": {
+        "name": "Link Intime India Pvt. Ltd.",
+        "email": "companysecretary@zomato.com",
+        "contact_number": "+91 124 426 8565",
+        "contact_name": "Sandhya Sethia",
+        "short": "Link Intime India Pvt. Ltd."
+      },
+      "lot_size": 195,
+      "isin": "INE758T01015"
+    }
+  }
+}
