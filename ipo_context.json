@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-19T12:48:02.336177+00:00",
+  "refreshed_at": "2026-07-20T12:48:07.705457+00:00",
   "ipos": {
     "AADHARHFC": {
       "registrar": {
@@ -1122,6 +1122,19 @@
       "lot_size": 132,
       "isin": "INE0ZK601013",
       "industry": "IT - Software"
+    },
+    "CUBEINVIT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "cube.invit@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 1800 309 4001",
+        "contact_name": " M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://investmentbank.kotak.com//kib-cms/sites/default/files/offer-documets/Cube_Highways_Trust_Offer_Document_July_13_2026.pdf",
+      "lot_size": 95,
+      "isin": "INE0NR623014"
     },
     "CYIENTDLM": {
       "registrar": {
