@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-20T12:48:07.705457+00:00",
+  "refreshed_at": "2026-07-21T12:48:23.112360+00:00",
   "ipos": {
     "AADHARHFC": {
       "registrar": {
@@ -2258,6 +2258,20 @@
       "isin": "INE622H01018",
       "industry": "Agriculture"
     },
+    "INDOMIM": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "indomim.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81 0811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/indo-mim-limited-rhp_102938.html",
+      "lot_size": 30,
+      "isin": "INE084101034",
+      "industry": "Engineering"
+    },
     "INNOVACAP": {
       "registrar": {
         "name": "Kfin Technologies Limited ",
@@ -2825,6 +2839,20 @@
       "lot_size": 94,
       "isin": "INE06WU01026",
       "industry": "Finance - NBFC"
+    },
+    "LCL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "lohiacorp.ipo@in.mpms.mufg.com",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/lohia-corp-limited-rhp_102936.html",
+      "lot_size": 35,
+      "isin": "INE0QJW01029",
+      "industry": "Engineering"
     },
     "LENSKART": {
       "registrar": {
