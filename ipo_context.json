@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-21T12:48:23.112360+00:00",
+  "refreshed_at": "2026-07-22T12:48:12.121637+00:00",
   "ipos": {
     "AADHARHFC": {
       "registrar": {
@@ -5094,6 +5094,20 @@
       },
       "lot_size": 30,
       "isin": "INE0H5O01029"
+    },
+    "XTRANET": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "xtranet.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 18003094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.bseindia.com/corporates/download/305760/IPO%20Prior/Xtranet_DRHP_Final_20250926220859.pdf",
+      "lot_size": 110,
+      "isin": "INE0NG701011",
+      "industry": "IT - Software"
     },
     "YATHARTH": {
       "registrar": {
