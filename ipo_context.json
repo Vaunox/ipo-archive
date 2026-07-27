@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-26T12:48:06.404550+00:00",
+  "refreshed_at": "2026-07-27T12:48:09.337742+00:00",
   "ipos": {
     "AADHARHFC": {
       "registrar": {
@@ -2954,6 +2954,20 @@
       "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2024/manba-finance-limited-rhp_86780.html",
       "lot_size": 125,
       "isin": "INE939X01013"
+    },
+    "MANIPALHOS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "manipal.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/ 18003094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH "
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Manipal%20Health%20Enterprises%20Limited-%20RHP%20(July%2023,%202026)-1784864230.pdf",
+      "lot_size": 25,
+      "isin": "INE459N01021",
+      "industry": "Hospital & Healthcare Services"
     },
     "MANKIND": {
       "registrar": {
