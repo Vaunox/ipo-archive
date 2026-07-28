@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-07-27T12:48:09.337742+00:00",
+  "refreshed_at": "2026-07-28T12:49:28.348807+00:00",
   "ipos": {
     "AADHARHFC": {
       "registrar": {
@@ -2473,6 +2473,20 @@
       "lot_size": 36,
       "isin": "INE0OAF01028"
     },
+    "JNPR": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "junipergreen.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.junipergreenenergy.com/pdfs/initial-public-offering/JuniperGreenEnergyLimited_RHP_23-07-26.pdf",
+      "lot_size": 66,
+      "isin": "INE05C901015",
+      "industry": "Power Generation/Distribution"
+    },
     "JSFB": {
       "registrar": {
         "name": "Kfin Technologies Limited",
@@ -3170,6 +3184,20 @@
       },
       "lot_size": 535,
       "isin": "INE0CG401037"
+    },
+    "MVELECTRO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "mvelectrosystems.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6717 2222 / 18003094001",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/mv-electrosystems-red_herring_prospectus.pdf",
+      "lot_size": 34,
+      "isin": "INE0OWZ01020",
+      "industry": "Electric Equipment"
     },
     "MVGJL": {
       "registrar": {
