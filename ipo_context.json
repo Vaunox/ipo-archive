@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-02T12:45:21.158934+00:00",
+  "refreshed_at": "2026-08-03T12:45:12.016828+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -28,6 +28,20 @@
       "lot_size": 142,
       "isin": "INE1JCQ01037",
       "industry": "Textile"
+    },
+    "ARDEE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "ardeeindustries.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/ardee-industries-limited-rhp_103086.html",
+      "lot_size": 281,
+      "isin": "INE0XNF01022",
+      "industry": "Metal - Non Ferrous"
     },
     "BAGMANE": {
       "registrar": {
