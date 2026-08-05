@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-04T12:45:16.558852+00:00",
+  "refreshed_at": "2026-08-05T12:45:14.927180+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -238,6 +238,20 @@
       "isin": "INE0QJW01029",
       "industry": "Engineering"
     },
+    "LEAP": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "leapindia.ipo@in.mpms.mufg.com",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalakrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/leapindia_limited_red_herring_prospectus_260802_184621.pdf",
+      "lot_size": 94,
+      "isin": "INE00GO01025",
+      "industry": "Logistics"
+    },
     "MANIPALHOS": {
       "registrar": {
         "name": "KFin Technologies Limited",
@@ -293,6 +307,20 @@
       "lot_size": 26,
       "isin": "INE640G01020",
       "industry": "Finance - Asset Management"
+    },
+    "TECHNOCRAF": {
+      "registrar": {
+        "name": "BIGSHARE SERVICES PRIVATE LIMITED",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1785495636128.pdf",
+      "lot_size": 70,
+      "isin": "INE1D0W01018",
+      "industry": "Engineering - Construction"
     },
     "TURTLEMINT": {
       "registrar": {
