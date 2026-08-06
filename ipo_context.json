@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-05T12:45:14.927180+00:00",
+  "refreshed_at": "2026-08-06T12:45:16.169596+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -264,6 +264,20 @@
       "rhp_url": "https://www.axiscapital.co.in/contents/Manipal%20Health%20Enterprises%20Limited-%20RHP%20(July%2023,%202026)-1784864230.pdf",
       "lot_size": 25,
       "isin": "INE459N01021",
+      "industry": "Hospital & Healthcare Services"
+    },
+    "MOLBIO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "molbio.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222 / 1800 3094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/molbio_diagnostics_limited_-_red_herring_prospectus.pdf",
+      "lot_size": 18,
+      "isin": "INE869T01028",
       "industry": "Hospital & Healthcare Services"
     },
     "MVELECTRO": {
