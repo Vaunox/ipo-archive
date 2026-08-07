@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-06T12:45:16.169596+00:00",
+  "refreshed_at": "2026-08-07T12:45:16.132202+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -168,20 +168,6 @@
       "isin": "INE05C901015",
       "industry": "Power Generation/Distribution"
     },
-    "KISSHT": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "kissht.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222",
-        "contact_name": "https://www.nuvama.com/wp-content/uploads/2026/04/Project-NorthStar-RHP-Filing-version.pdf",
-        "short": "K Fintech"
-      },
-      "rhp_url": "https://www.nuvama.com/wp-content/uploads/2026/04/Project-NorthStar-RHP-Filing-version.pdf",
-      "lot_size": 87,
-      "isin": "INE12F801023",
-      "industry": "Finance - NBFC"
-    },
     "KNACK": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -265,6 +251,20 @@
       "lot_size": 25,
       "isin": "INE459N01021",
       "industry": "Hospital & Healthcare Services"
+    },
+    "MILKYMIST": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "milky.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/milky-mist-dairy-food-limited-rhp.pdf",
+      "lot_size": 107,
+      "isin": "INE00IT01020",
+      "industry": "Consumer Food"
     },
     "MOLBIO": {
       "registrar": {
