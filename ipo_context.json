@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-07T12:45:16.132202+00:00",
+  "refreshed_at": "2026-08-08T12:45:15.031388+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -125,6 +125,20 @@
       "rhp_url": "https://investmentbank.kotak.com//kib-cms/sites/default/files/offer-documets/Cube_Highways_Trust_Offer_Document_July_13_2026.pdf",
       "lot_size": 95,
       "isin": "INE0NR623014"
+    },
+    "DHOOTTRANS": {
+      "registrar": {
+        "name": "Kfin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "dhoot.ipo@kfintech.com",
+        "contact_number": "+91-40 6716 2222 /18003 094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/annexure-1-dhoot-transmission-limited-rhp-3-8-26.pdf",
+      "lot_size": 17,
+      "isin": "INE01NH01023",
+      "industry": "Automobile Two & Three Wheelers"
     },
     "HEXAGON": {
       "registrar": {
