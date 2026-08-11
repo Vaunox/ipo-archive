@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-10T12:45:16.711515+00:00",
+  "refreshed_at": "2026-08-11T12:45:17.321670+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -56,6 +56,20 @@
       "lot_size": 150,
       "isin": "INE2OVN25015",
       "industry": "Construction - Real Estate"
+    },
+    "BLEL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "beharilalengineering.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.systematixgroup.in/wp-content/uploads/2026/08/Behari-Lal-RHP.pdf",
+      "lot_size": 52,
+      "isin": "INE1EEM01017",
+      "industry": "Steel & Iron Products"
     },
     "CMLL": {
       "registrar": {
@@ -335,6 +349,20 @@
       "lot_size": 26,
       "isin": "INE640G01020",
       "industry": "Finance - Asset Management"
+    },
+    "SHIPROCKET": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "shiprocket.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Shiprocket%20Limited%20-%20RHP%20-%20August%205,%202026-1785937235.pdf",
+      "lot_size": 154,
+      "isin": "INE0FOO01011",
+      "industry": "Logistics"
     },
     "TECHNOCRAF": {
       "registrar": {
