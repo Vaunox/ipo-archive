@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-13T12:45:17.317167+00:00",
+  "refreshed_at": "2026-08-14T12:45:18.219411+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -42,20 +42,6 @@
       "lot_size": 281,
       "isin": "INE0XNF01022",
       "industry": "Metal - Non Ferrous"
-    },
-    "BAGMANE": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "bagmane.reit@kfintech.com",
-        "contact_number": "+91 40 6716 2222/1800 309 4001",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.axiscapital.co.in/contents/5716-1777312447.pdf",
-      "lot_size": 150,
-      "isin": "INE2OVN25015",
-      "industry": "Construction - Real Estate"
     },
     "BLEL": {
       "registrar": {
@@ -168,6 +154,19 @@
       "isin": "INE0JUI01012",
       "industry": "Consumer Food"
     },
+    "HORIZONIND": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "horizon.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/ 1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Horizon%20Industrial%20Parks%20Limited_RHP-1786462662.pdf",
+      "lot_size": 250,
+      "isin": "INE685T01010"
+    },
     "INDOMIM": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -223,6 +222,20 @@
       "lot_size": 35,
       "isin": "INE0ISX01025",
       "industry": "Textile"
+    },
+    "LALITHAA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/home.html",
+        "email": "lalithaajewellery.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG "
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2026/lalithaa-jewellery-mart-limited-rhp_103513.html",
+      "lot_size": 74,
+      "isin": "INE0K9O01026",
+      "industry": "Diamond & Jewellery"
     },
     "LASERPOWER": {
       "registrar": {
@@ -363,6 +376,20 @@
       "lot_size": 154,
       "isin": "INE0FOO01011",
       "industry": "Logistics"
+    },
+    "SUNSHINE": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-6263 8200",
+        "contact_name": "Vinayak Morbale ",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://gyrcapitaladvisors.com/wp-content/uploads/2026/08/FinalRHP_Sunshine-Pictures-Ltd-GYR.pdf",
+      "lot_size": 41,
+      "isin": "INE1B3O01011",
+      "industry": "Film Production"
     },
     "TECHNOCRAF": {
       "registrar": {
