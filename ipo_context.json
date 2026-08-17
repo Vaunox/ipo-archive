@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-16T12:45:18.028138+00:00",
+  "refreshed_at": "2026-08-17T12:45:18.089656+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -139,6 +139,20 @@
       "lot_size": 17,
       "isin": "INE01NH01023",
       "industry": "Automobile Two & Three Wheelers"
+    },
+    "GAJA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "gajaalternative.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://gajacapital.com/assets/gaja-alternative-asset-management-limited---red-herring-prospectus.pdf",
+      "lot_size": 93,
+      "isin": "INE18UN01038",
+      "industry": "Finance - Asset Management"
     },
     "HEXAGON": {
       "registrar": {
@@ -362,6 +376,20 @@
       "lot_size": 26,
       "isin": "INE640G01020",
       "industry": "Finance - Asset Management"
+    },
+    "SHANKESH": {
+      "registrar": {
+        "name": "KFIN Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "shankesh.ipo@kfintech.com",
+        "contact_number": "040-67162222/18003094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/shankesh-jewellers-limited_rhp.pdf",
+      "lot_size": 160,
+      "isin": "INE1WFC01025",
+      "industry": "Diamond & Jewellery"
     },
     "SHIPROCKET": {
       "registrar": {
