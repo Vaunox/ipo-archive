@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-17T12:45:18.089656+00:00",
+  "refreshed_at": "2026-08-18T12:45:19.435146+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -432,6 +432,20 @@
       "lot_size": 70,
       "isin": "INE1D0W01018",
       "industry": "Engineering - Construction"
+    },
+    "TEMPSENS": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "tempsens.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.icicisecurities.com/console/uploads/actual/TEMPSENS-INSTRUMENTS-(INDIA)-LIMITED---RED-HERRING-PROSPECTUS_1786731387_84.pdf",
+      "lot_size": 50,
+      "isin": "INE1KZI01025",
+      "industry": "Engineering - Industrial Equipments"
     },
     "TURTLEMINT": {
       "registrar": {
