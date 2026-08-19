@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-18T12:45:19.435146+00:00",
+  "refreshed_at": "2026-08-19T12:45:20.025551+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -42,6 +42,20 @@
       "lot_size": 281,
       "isin": "INE0XNF01022",
       "industry": "Metal - Non Ferrous"
+    },
+    "AUGMONT": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "augmont.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949 ",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2026/augmont-enterprises-limited-rhp_103716.html",
+      "lot_size": 19,
+      "isin": "INE16W401027",
+      "industry": "Diamond & Jewellery"
     },
     "BLEL": {
       "registrar": {
