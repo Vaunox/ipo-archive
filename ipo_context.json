@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-19T12:45:20.025551+00:00",
+  "refreshed_at": "2026-08-20T12:45:20.527222+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -417,6 +417,20 @@
       "rhp_url": "https://www.axiscapital.co.in/contents/Shiprocket%20Limited%20-%20RHP%20-%20August%205,%202026-1785937235.pdf",
       "lot_size": 154,
       "isin": "INE0FOO01011",
+      "industry": "Logistics"
+    },
+    "SKYWAYS": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-62638200",
+        "contact_name": "Mr. Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://r2.skyways-air.in/RHP-Skyways.pdf",
+      "lot_size": 100,
+      "isin": "INE0PX301025",
       "industry": "Logistics"
     },
     "SUNSHINE": {
