@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-20T12:45:20.527222+00:00",
+  "refreshed_at": "2026-08-21T12:45:21.136382+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -194,6 +194,20 @@
       "rhp_url": "https://www.axiscapital.co.in/contents/Horizon%20Industrial%20Parks%20Limited_RHP-1786462662.pdf",
       "lot_size": 250,
       "isin": "INE685T01010"
+    },
+    "HTEL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Raphael",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.hy-techengineers.com/pdf/Project%20Darwin_RHP_170826_website.pdf",
+      "lot_size": 283,
+      "isin": "INE0LEG01024",
+      "industry": "Engineering"
     },
     "INDOMIM": {
       "registrar": {
@@ -446,6 +460,20 @@
       "lot_size": 41,
       "isin": "INE1B3O01011",
       "industry": "Film Production"
+    },
+    "SYMBIOTEC": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "symbiotecpharmalab.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/symbiotec-rhp.pdf",
+      "lot_size": 15,
+      "isin": "INE899I01028",
+      "industry": "Pharmaceuticals & Drugs"
     },
     "TECHNOCRAF": {
       "registrar": {
