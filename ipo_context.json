@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-23T12:45:20.712623+00:00",
+  "refreshed_at": "2026-08-24T12:45:21.922464+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -28,6 +28,20 @@
       "lot_size": 142,
       "isin": "INE1JCQ01037",
       "industry": "Textile"
+    },
+    "ANNU": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "annuprojects.ipo@kfintech.com",
+        "contact_number": "+91 49 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1787131647537.pdf",
+      "lot_size": 151,
+      "isin": "INE103001017",
+      "industry": "Engineering - Construction"
     },
     "ARDEE": {
       "registrar": {
