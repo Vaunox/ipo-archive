@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-24T12:45:21.922464+00:00",
+  "refreshed_at": "2026-08-25T12:45:21.802943+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -334,6 +334,20 @@
       "lot_size": 94,
       "isin": "INE00GO01025",
       "industry": "Logistics"
+    },
+    "LUMINO": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited ",
+        "website": "https://ipo.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91 22 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2026/lumino-industries-limited-rhp_103845.html",
+      "lot_size": 182,
+      "isin": "INE185Q01025",
+      "industry": "Engineering - Construction"
     },
     "MANIPALHOS": {
       "registrar": {
