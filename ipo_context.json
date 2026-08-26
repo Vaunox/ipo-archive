@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-25T12:45:21.802943+00:00",
+  "refreshed_at": "2026-08-26T12:45:28.058212+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -404,6 +404,19 @@
       "lot_size": 34,
       "isin": "INE0OWZ01020",
       "industry": "Electric Equipment"
+    },
+    "PRIORITY": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "priorityjewels.ipo@in.mpms.mufg.co",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://priorityjewels.in/wp-content/uploads/2026/08/Priority-Jewels-Limited_RHP.pdf",
+      "lot_size": 75,
+      "isin": "INE15EH01014"
     },
     "RAMBHAJO": {
       "registrar": {
