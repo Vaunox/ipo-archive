@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-26T12:45:28.058212+00:00",
+  "refreshed_at": "2026-08-27T12:45:23.034341+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -167,6 +167,20 @@
       "lot_size": 17,
       "isin": "INE01NH01023",
       "industry": "Automobile Two & Three Wheelers"
+    },
+    "ESDS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "esdssoftware.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://aceservice.acesphere.com/damcap//ESDSRHP.pdf",
+      "lot_size": 34,
+      "isin": "INE0DRI01029",
+      "industry": "IT - Software"
     },
     "GAJA": {
       "registrar": {
