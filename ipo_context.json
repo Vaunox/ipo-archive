@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-27T12:45:23.034341+00:00",
+  "refreshed_at": "2026-08-28T12:45:29.459396+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -418,6 +418,19 @@
       "lot_size": 34,
       "isin": "INE0OWZ01020",
       "industry": "Electric Equipment"
+    },
+    "PERNIASPOP": {
+      "registrar": {
+        "name": "Kfin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "purplestyle.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://img.perniaspopupshop.com/store-locator-v2/uploads/Red_Herring_Prospectus_RHP_a99142e0fd.pdf",
+      "lot_size": 26,
+      "isin": "INE0I1B01016"
     },
     "PRIORITY": {
       "registrar": {
