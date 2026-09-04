@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-03T12:45:24.597454+00:00",
+  "refreshed_at": "2026-09-04T12:45:31.658472+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -459,6 +459,20 @@
       "rhp_url": "https://img.perniaspopupshop.com/store-locator-v2/uploads/Red_Herring_Prospectus_RHP_a99142e0fd.pdf",
       "lot_size": 26,
       "isin": "INE0I1B01016"
+    },
+    "PRANAV": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "pcpl.ipo@kfintech.com",
+        "contact_number": " +91 6716 2222/18003094001",
+        "contact_name": "M. Murali Krishnan",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Pranav Constructions Limited - RHP.pdf",
+      "lot_size": 120,
+      "isin": "INE0H4201019",
+      "industry": "Engineering - Construction"
     },
     "PRIORITY": {
       "registrar": {
