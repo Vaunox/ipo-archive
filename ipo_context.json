@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-06T12:45:24.914333+00:00",
+  "refreshed_at": "2026-09-07T12:45:26.102949+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -210,6 +210,20 @@
       "isin": "INE18UN01038",
       "industry": "Finance - Asset Management"
     },
+    "GLASSWALL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "glasswallsystems.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.iiflcapital.com/institutional-equities/Upload/InvestmentBanking/Prospects/Glass_Walls_Systems_(India)_Limited_RHP.pdf",
+      "lot_size": 82,
+      "isin": "INE644Q01039",
+      "industry": "Engineering - Construction"
+    },
     "HEXAGON": {
       "registrar": {
         "name": "KFin Technologies Limited",
@@ -278,6 +292,20 @@
       "lot_size": 66,
       "isin": "INE05C901015",
       "industry": "Power Generation/Distribution"
+    },
+    "KANOHAR": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "kanoharelectricals.ipo@in.mpms",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.iiflcapital.com/institutional-equities/upload/investmentbanking/prospects/kanohar_electricals_limited_-_rhp.pdf",
+      "lot_size": 23,
+      "isin": "INE877D01025",
+      "industry": "Electric Equipment"
     },
     "KNACK": {
       "registrar": {
@@ -474,6 +502,20 @@
       "isin": "INE0H4201019",
       "industry": "Engineering - Construction"
     },
+    "PRASOLCHEM": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "prasol.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/ 1800 309 4001",
+        "contact_name": "M Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.damcapital.in/files/pdf/639239827470702392_Prasol_Chemicals_Limited_-_RHP.pdf",
+      "lot_size": 22,
+      "isin": "INE455U01024",
+      "industry": "Chemicals"
+    },
     "PRIORITY": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -640,6 +682,20 @@
       "lot_size": 110,
       "isin": "INE0NG701011",
       "industry": "IT - Software"
+    },
+    "ARCIL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "arcil@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.arcil.co.in/sites/default/files/2026-09/Arcil-RHP-01-09-26.pdf",
+      "lot_size": 107,
+      "isin": "INE148G01016",
+      "industry": "Finance - NBFC"
     }
   }
 }
