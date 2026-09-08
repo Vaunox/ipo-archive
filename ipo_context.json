@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-07T12:45:26.102949+00:00",
+  "refreshed_at": "2026-09-08T12:45:28.536550+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -42,6 +42,20 @@
       "lot_size": 151,
       "isin": "INE103001017",
       "industry": "Engineering - Construction"
+    },
+    "ARCIL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "arcil@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.arcil.co.in/sites/default/files/2026-09/Arcil-RHP-01-09-26.pdf",
+      "lot_size": 107,
+      "isin": "INE148G01016",
+      "industry": "Finance - NBFC"
     },
     "ARDEE": {
       "registrar": {
@@ -307,6 +321,20 @@
       "isin": "INE877D01025",
       "industry": "Electric Equipment"
     },
+    "KARAMTARA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "karamtara.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.icicisecurities.com/console/uploads/actual/KARAMTARA-ENGINEERING-LIMITED---RHP_1788452172_86.pdf",
+      "lot_size": 59,
+      "isin": "INE590T01012",
+      "industry": "Power Generation/Distribution"
+    },
     "KNACK": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -362,6 +390,20 @@
       "lot_size": 70,
       "isin": "INE17IR01028",
       "industry": "Cable"
+    },
+    "LCCPROJECT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "lccpl.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222/1800 309 4001",
+        "contact_name": "M. Murali Krishna",
+        "short": "Kfintech"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/rhp (2).pdf",
+      "lot_size": 102,
+      "isin": "INE1FPN01026",
+      "industry": "Engineering - Construction"
     },
     "LCL": {
       "registrar": {
@@ -461,6 +503,20 @@
       "isin": "INE1FCO01014",
       "industry": "Hospital & Healthcare Services"
     },
+    "MPIMANIPAL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "manipalpayment.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://mpimanipal.com/wp-content/uploads/2026/09/Red-Herring-Prospectus_compressed.pdf",
+      "lot_size": 44,
+      "isin": "INE241U01028",
+      "industry": "Finance - Others"
+    },
     "MVELECTRO": {
       "registrar": {
         "name": "KFin Technologies Limited",
@@ -543,6 +599,19 @@
       "isin": "INE1SJO01012",
       "industry": "Diamond & Jewellery"
     },
+    "RENTOMOJO": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "rentomojo.ipo@kfintech.com",
+        "contact_number": "+91 40671 62222 / 1800 3094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/Rentomojo%20Limited%20-%20RHP-1788498517.pdf",
+      "lot_size": 37,
+      "isin": "INE08T701025"
+    },
     "SBIFUNDS": {
       "registrar": {
         "name": "KFin Technologies Limited ",
@@ -598,6 +667,20 @@
       "lot_size": 100,
       "isin": "INE0PX301025",
       "industry": "Logistics"
+    },
+    "STEAMHOUSE": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "steamhouse.ipo@kfintech.com",
+        "contact_number": "+91 40 671 62222",
+        "contact_name": "M. Murali Krishna",
+        "short": "KFintech"
+      },
+      "rhp_url": "https://steamhouse.in/wp-content/uploads/2026/09/Red-Herring-Prospectus.pdf",
+      "lot_size": 185,
+      "isin": "INE0FRO01022",
+      "industry": "Industrial Gases & Fuels"
     },
     "SUNSHINE": {
       "registrar": {
@@ -682,20 +765,6 @@
       "lot_size": 110,
       "isin": "INE0NG701011",
       "industry": "IT - Software"
-    },
-    "ARCIL": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "arcil@in.mpms.mufg.com",
-        "contact_number": "+91 810 811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://www.arcil.co.in/sites/default/files/2026-09/Arcil-RHP-01-09-26.pdf",
-      "lot_size": 107,
-      "isin": "INE148G01016",
-      "industry": "Finance - NBFC"
     }
   }
 }
