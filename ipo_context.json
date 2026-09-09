@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-08T12:45:28.536550+00:00",
+  "refreshed_at": "2026-09-09T12:45:28.810860+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -112,20 +112,6 @@
       "lot_size": 35,
       "isin": "INE11XY01018",
       "industry": "Logistics"
-    },
-    "CMRGREEN": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "cmr.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K Fintech"
-      },
-      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/cmr-green-technologies-rhp.pdf",
-      "lot_size": 78,
-      "isin": "INE00WV01027",
-      "industry": "Metal - Non Ferrous"
     },
     "CORDELIA": {
       "registrar": {
@@ -751,6 +737,20 @@
       "lot_size": 98,
       "isin": "INE0OC301013",
       "industry": "Finance - Investment"
+    },
+    "VEEGALAND": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "veegalanddevelopers.ipo@in.mpms.mufg.com",
+        "contact_number": " +91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2026/veegaland-developers-ltd-rhp_104160.html",
+      "lot_size": 107,
+      "isin": "INE1JTV01015",
+      "industry": "Construction - Real Estate"
     },
     "XTRANET": {
       "registrar": {
