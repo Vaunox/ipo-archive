@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-09T12:45:28.810860+00:00",
+  "refreshed_at": "2026-09-10T12:45:29.219896+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -432,6 +432,20 @@
       "lot_size": 182,
       "isin": "INE185Q01025",
       "industry": "Engineering - Construction"
+    },
+    "MANIKA": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "manikaplastech.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://manikaplastech.com/wp-content/uploads/2026/09/RHP.pdf",
+      "lot_size": 348,
+      "isin": "INE0KWF01020",
+      "industry": "Plastic Products"
     },
     "MANIPALHOS": {
       "registrar": {
