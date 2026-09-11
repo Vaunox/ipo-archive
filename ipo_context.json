@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-10T12:45:29.219896+00:00",
+  "refreshed_at": "2026-09-11T12:45:38.159288+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -223,20 +223,6 @@
       "lot_size": 82,
       "isin": "INE644Q01039",
       "industry": "Engineering - Construction"
-    },
-    "HEXAGON": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "hexagon.ipo@kfintech.com",
-        "contact_number": " +91 40 6716 2222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://hexagonnutrition.com/wp-content/uploads/2026/05/RHP-documents.pdf",
-      "lot_size": 333,
-      "isin": "INE0JUI01012",
-      "industry": "Consumer Food"
     },
     "HORIZONIND": {
       "registrar": {
