@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-12T12:45:28.604508+00:00",
+  "refreshed_at": "2026-09-13T12:45:28.741492+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -516,6 +516,20 @@
       "lot_size": 34,
       "isin": "INE0OWZ01020",
       "industry": "Electric Equipment"
+    },
+    "NSE": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "nse.ipo@in.mpms.mu",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.axiscapital.co.in/contents/National%20Stock%20Exchange%20of%20India%20Limited%20-%20RHP-1789061710.pdf",
+      "lot_size": 8,
+      "isin": "INE721I01024",
+      "industry": "Finance"
     },
     "PERNIASPOP": {
       "registrar": {
