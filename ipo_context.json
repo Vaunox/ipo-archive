@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-15T12:45:26.639593+00:00",
+  "refreshed_at": "2026-09-16T12:45:30.514652+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -224,6 +224,20 @@
       "isin": "INE644Q01039",
       "industry": "Engineering - Construction"
     },
+    "HEROMOTORS": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "heromotors.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/18003094001",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://www.heromotors.com/uploads/prospectus/hero-motors-limited-rhp.pdf",
+      "lot_size": 178,
+      "isin": "INE012G01022",
+      "industry": "Automobile Two & Three Wheelers"
+    },
     "HORIZONIND": {
       "registrar": {
         "name": "KFin Technologies Limited",
@@ -278,6 +292,20 @@
       "lot_size": 66,
       "isin": "INE05C901015",
       "industry": "Power Generation/Distribution"
+    },
+    "JSIPL": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "022 - 6263 8200",
+        "contact_name": "Babu Rapheal ",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sarthi.in/wp-content/uploads/2026/09/Jindal-Supreme_RHP.pdf",
+      "lot_size": 161,
+      "isin": "INE1DLO01028",
+      "industry": "Steel & Iron Products"
     },
     "KANOHAR": {
       "registrar": {
@@ -667,6 +695,34 @@
       "lot_size": 100,
       "isin": "INE0PX301025",
       "industry": "Logistics"
+    },
+    "SONA": {
+      "registrar": {
+        "name": "KfinTechnologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "sona.ipo@kfintech.com",
+        "contact_number": "+914067162222",
+        "contact_name": "M Murali Krishna",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/sonaselection-india-limited-rhp_104393.html",
+      "lot_size": 150,
+      "isin": "INE0LLZ01011",
+      "industry": "Textile"
+    },
+    "SSRETAIL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "ssretail.ipo@kfintech.com",
+        "contact_number": " +91 40 6716 2222/180 0309 4001",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://ssmobile.com/aboutus/investor/assets/RHP/SS%20Retail%20Limited%20-%20RHP%20-%2008092026.pdf",
+      "lot_size": 35,
+      "isin": "INE1EQW01028",
+      "industry": "Retailing"
     },
     "STEAMHOUSE": {
       "registrar": {
