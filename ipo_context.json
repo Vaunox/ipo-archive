@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-20T12:45:42.258962+00:00",
+  "refreshed_at": "2026-09-21T12:45:30.612958+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -807,6 +807,20 @@
       "lot_size": 98,
       "isin": "INE0OC301013",
       "industry": "Finance - Investment"
+    },
+    "VARMORA": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "vgl.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6716 2222",
+        "contact_name": "M. Murali Krishna ",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://live.jmfl.com/od/UploadedFiles/A49FD961-AE8C-4FE8-9A30-5041E1D8672C.pdf",
+      "lot_size": 101,
+      "isin": "INE0M5301040",
+      "industry": "Ceramics/Marble/Granite/Sanitaryware"
     },
     "VEEGALAND": {
       "registrar": {
