@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-21T12:45:30.612958+00:00",
+  "refreshed_at": "2026-09-22T12:45:32.923500+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -14,6 +14,20 @@
       "lot_size": 110,
       "isin": "INE2FMX01012",
       "industry": "Textile"
+    },
+    "ADROITIND": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": " +91 22 6263 8200",
+        "contact_name": "Babu Rapheal C ",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://adroitindustries.com/Assets/pdf/Red_Herring_Prospectus.pdf",
+      "lot_size": 111,
+      "isin": "INE505M01015",
+      "industry": "Auto Ancillary"
     },
     "ALPINETEX": {
       "registrar": {
@@ -70,6 +84,20 @@
       "lot_size": 281,
       "isin": "INE0XNF01022",
       "industry": "Metal - Non Ferrous"
+    },
+    "ARMEE": {
+      "registrar": {
+        "name": "Cameo Corporate Services Limited",
+        "website": "https://cameoindia.com/",
+        "email": "priya@cameoindia.com",
+        "contact_number": "+ 91 44 4002 0700",
+        "contact_name": "K. Sreepriya",
+        "short": "CAMEO"
+      },
+      "rhp_url": "https://www.saffronadvisor.com/files/offer-documents/Red_Herring_Prospectus.pdf",
+      "lot_size": 40,
+      "isin": "INE0TWE01016",
+      "industry": "IT - Hardware"
     },
     "AUGMONT": {
       "registrar": {
@@ -181,6 +209,19 @@
       "lot_size": 17,
       "isin": "INE01NH01023",
       "industry": "Automobile Two & Three Wheelers"
+    },
+    "ELEVATE": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "Elevatecampuses.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/ 1800 3094001",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "lot_size": 41,
+      "isin": "INE147X01013",
+      "industry": "Construction - Real Estate"
     },
     "ESDS": {
       "registrar": {
@@ -751,6 +792,20 @@
       "lot_size": 41,
       "isin": "INE1B3O01011",
       "industry": "Film Production"
+    },
+    "SWASTIKAIN": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "swastikainfra.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/sep-2026/swastika-infra-ltd-rhp_104573.html",
+      "lot_size": 81,
+      "isin": "INE1QJA01015",
+      "industry": "Engineering - Construction"
     },
     "SYMBIOTEC": {
       "registrar": {
