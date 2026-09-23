@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-22T12:45:32.923500+00:00",
+  "refreshed_at": "2026-09-23T12:45:33.522241+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -56,6 +56,20 @@
       "lot_size": 151,
       "isin": "INE103001017",
       "industry": "Engineering - Construction"
+    },
+    "AONESTEELS": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.aonesteelgroup.com/wp-content/uploads/2026/09/RHP.pdf",
+      "lot_size": 37,
+      "isin": "INE0OTC01025",
+      "industry": "Steel & Iron Products"
     },
     "ARCIL": {
       "registrar": {
@@ -557,6 +571,20 @@
       "lot_size": 62,
       "isin": "INE1FCO01014",
       "industry": "Hospital & Healthcare Services"
+    },
+    "MONEYVIEW": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "moneyview.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.chittorgarh.net/reports/ipo_notes/moneyview-rhp.pdf",
+      "lot_size": 441,
+      "isin": "INE0PTN01011",
+      "industry": "Finance - Investment"
     },
     "MPIMANIPAL": {
       "registrar": {
