@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-23T12:45:33.522241+00:00",
+  "refreshed_at": "2026-09-24T12:45:36.046902+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -14,6 +14,20 @@
       "lot_size": 110,
       "isin": "INE2FMX01012",
       "industry": "Textile"
+    },
+    "ACEVECTOR": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "acevector.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.india.clsa.com/uploads/Ace_Vector_Limited_RHP_18515f8243.pdf",
+      "lot_size": 468,
+      "isin": "INE580P01029",
+      "industry": "e-Commerce"
     },
     "ADROITIND": {
       "registrar": {
@@ -264,6 +278,20 @@
       "lot_size": 93,
       "isin": "INE18UN01038",
       "industry": "Finance - Asset Management"
+    },
+    "GERMAN": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22 6263 8200",
+        "contact_name": "Babu Rapheal",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.systematixgroup.in/wp-content/uploads/2026/09/GGSPL-RHP.pdf",
+      "lot_size": 107,
+      "isin": "INE0D4501011",
+      "industry": "Steel & Iron Products"
     },
     "GLASSWALL": {
       "registrar": {
@@ -628,6 +656,20 @@
       "isin": "INE721I01024",
       "industry": "Finance"
     },
+    "ORIENTCABL": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "orient.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222",
+        "contact_name": "M. Murali Krishna",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://orientcables.in/wp-content/uploads/2026/09/Red-Herring-Prospectus.pdf",
+      "lot_size": 55,
+      "isin": "INE0J1N01028",
+      "industry": "Electric Equipment"
+    },
     "PERNIASPOP": {
       "registrar": {
         "name": "Kfin Technologies Limited ",
@@ -708,6 +750,20 @@
       "rhp_url": "https://www.axiscapital.co.in/contents/Rentomojo%20Limited%20-%20RHP-1788498517.pdf",
       "lot_size": 37,
       "isin": "INE08T701025"
+    },
+    "RUNWALENTR": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "runwalenterprises.ipo@in.mpms.mufg.com",
+        "contact_number": " +91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.icicisecurities.com/console/uploads/actual/RUNWAL-ENTERPRISES-LIMITED--RED-HERRING-PROSPECTUS_1790022848_83.pdf",
+      "lot_size": 49,
+      "isin": "INE804W01029",
+      "industry": "Construction - Real Estate"
     },
     "SBIFUNDS": {
       "registrar": {
