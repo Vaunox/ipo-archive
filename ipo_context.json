@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-25T12:45:35.143930+00:00",
+  "refreshed_at": "2026-09-26T12:45:35.326879+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -778,6 +778,20 @@
       "lot_size": 26,
       "isin": "INE640G01020",
       "industry": "Finance - Asset Management"
+    },
+    "SHAHINVEST": {
+      "registrar": {
+        "name": "MUFG INTIME INDIA PRIVATE LIMITED",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "shahInvestors.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.chittorgarh.net/reports/ipo_notes/shah-investors-home-ltd_rhp.pdf",
+      "lot_size": 85,
+      "isin": "INE029N01014",
+      "industry": "Finance - Housing"
     },
     "SHANKESH": {
       "registrar": {
