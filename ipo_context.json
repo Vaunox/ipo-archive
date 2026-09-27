@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-26T12:45:35.326879+00:00",
+  "refreshed_at": "2026-09-27T12:45:49.458215+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -848,6 +848,20 @@
       "lot_size": 150,
       "isin": "INE0LLZ01011",
       "industry": "Textile"
+    },
+    "SRIT": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "srit.ipo@kfintech.com",
+        "contact_number": "912249620337",
+        "contact_name": "M Murali Krishna",
+        "short": "KFin"
+      },
+      "rhp_url": "https://static1.squarespace.com/static/64bf881ed10e9e2c82cb9367/t/6ab39d3507e7c86aadbbfaf8/1790156118227/Red+Herring+Prospectus%28RHP%29.pdf",
+      "lot_size": 115,
+      "isin": "INE307K01028",
+      "industry": "IT - Software"
     },
     "SSRETAIL": {
       "registrar": {
