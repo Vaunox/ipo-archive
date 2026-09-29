@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-28T12:45:35.651639+00:00",
+  "refreshed_at": "2026-09-29T12:45:36.428153+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -642,6 +642,20 @@
       "isin": "INE0OWZ01020",
       "industry": "Electric Equipment"
     },
+    "NITYAS": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/apr-2026/nityas-gems-and-jewellery-limited-drhp_100802.html",
+      "lot_size": 200,
+      "isin": "INE211501023",
+      "industry": "Diamond & Jewellery"
+    },
     "NSE": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -988,6 +1002,20 @@
       "lot_size": 107,
       "isin": "INE1JTV01015",
       "industry": "Construction - Real Estate"
+    },
+    "VNL": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "vishalnirmiti.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.saffronadvisor.com/files/offer-documents/Red_Herring_Prospectus__1_.pdf",
+      "lot_size": 68,
+      "isin": "INE1O5L01025",
+      "industry": "Engineering - Construction"
     },
     "XTRANET": {
       "registrar": {
