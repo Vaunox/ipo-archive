@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-29T12:45:36.428153+00:00",
+  "refreshed_at": "2026-09-30T12:45:35.606075+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -168,20 +168,6 @@
       "lot_size": 35,
       "isin": "INE11XY01018",
       "industry": "Logistics"
-    },
-    "CORDELIA": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited ",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "waterwaysleisure.ipo@in.mpms.mufg.com",
-        "contact_number": "+91 81081 14949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/waterways-leisure-tourism-limited-rhp_102226.html",
-      "lot_size": 18,
-      "isin": "INE0LZF01013",
-      "industry": "Travel Services"
     },
     "CSM": {
       "registrar": {
@@ -737,20 +723,6 @@
       "rhp_url": "https://priorityjewels.in/wp-content/uploads/2026/08/Priority-Jewels-Limited_RHP.pdf",
       "lot_size": 75,
       "isin": "INE15EH01014"
-    },
-    "RAMBHAJO": {
-      "registrar": {
-        "name": "Bigshare Services Private Limited ",
-        "website": "https://www.bigshareonline.com/",
-        "email": "ipo@bigshareonline.com",
-        "contact_number": "+91 22-62638200 ",
-        "contact_name": "Mr. Babu Rapheal C ",
-        "short": "BIGSHARE"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/advit-jewels-limited-rhp_102061.html",
-      "lot_size": 100,
-      "isin": "INE1SJO01012",
-      "industry": "Diamond & Jewellery"
     },
     "RENTOMOJO": {
       "registrar": {
