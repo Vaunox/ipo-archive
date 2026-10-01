@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-30T12:45:35.606075+00:00",
+  "refreshed_at": "2026-10-01T12:45:35.790895+00:00",
   "ipos": {
     "AASTHA": {
       "registrar": {
@@ -168,20 +168,6 @@
       "lot_size": 35,
       "isin": "INE11XY01018",
       "industry": "Logistics"
-    },
-    "CSM": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "csmtechnologies.ipo@kfintech.com",
-        "contact_number": "+91 040-67162222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jun-2026/csm-technologies-limited-rhp_102194.html",
-      "lot_size": 132,
-      "isin": "INE0ZK601013",
-      "industry": "IT - Software"
     },
     "CUBEINVIT": {
       "registrar": {
