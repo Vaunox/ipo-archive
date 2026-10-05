@@ -1,20 +1,6 @@
 {
-  "refreshed_at": "2026-10-04T12:45:35.191952+00:00",
+  "refreshed_at": "2026-10-05T12:45:35.426438+00:00",
   "ipos": {
-    "AASTHA": {
-      "registrar": {
-        "name": "Bigshare Services Private Limited",
-        "website": "https://www.bigshareonline.com/",
-        "email": "ipo@bigshareonline.com",
-        "contact_number": "+91 226 263 8200",
-        "contact_name": "Vinayak Morbale",
-        "short": "BIGSHARE"
-      },
-      "rhp_url": "https://aasthaspintex.com/pdf/RHP/RHP_Aastha.pdf",
-      "lot_size": 110,
-      "isin": "INE2FMX01012",
-      "industry": "Textile"
-    },
     "ACEVECTOR": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
