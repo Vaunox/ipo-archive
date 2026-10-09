@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-08T12:45:38.931865+00:00",
+  "refreshed_at": "2026-10-09T12:45:37.652287+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -264,6 +264,19 @@
       "lot_size": 82,
       "isin": "INE644Q01039",
       "industry": "Engineering - Construction"
+    },
+    "HDFIRE": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "hdfire.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/oct-2026/hd-fire-protect-limited-rhp_105058.html",
+      "lot_size": 55,
+      "isin": "INE18AK01028"
     },
     "HEROMOTORS": {
       "registrar": {
