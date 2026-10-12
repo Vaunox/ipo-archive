@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-11T12:45:35.520696+00:00",
+  "refreshed_at": "2026-10-12T12:45:35.422480+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -222,6 +222,19 @@
       "lot_size": 34,
       "isin": "INE0DRI01029",
       "industry": "IT - Software"
+    },
+    "FUSIONCX": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "fusion.ipo@kfintech.com",
+        "contact_number": "+91 40 67162222 / 18003094001",
+        "contact_name": "Williams R",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://www.fusioncx.com/wp-content/uploads/rhp/Fusion-CX-Limited-Red-Herring-Prospectus.pdf",
+      "lot_size": 51,
+      "isin": "INE0N2201019"
     },
     "GAJA": {
       "registrar": {
