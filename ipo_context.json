@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-13T12:45:36.912630+00:00",
+  "refreshed_at": "2026-10-14T12:45:51.598768+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -415,20 +415,6 @@
       "isin": "INE590T01012",
       "industry": "Power Generation/Distribution"
     },
-    "KUSUMGAR": {
-      "registrar": {
-        "name": "Bigshare Services Private Limited ",
-        "website": "https://www.bigshareonline.com/",
-        "email": "ipo@bigshareonline.com",
-        "contact_number": " +91 22 6263 8200",
-        "contact_name": "Babu Rapheal C.",
-        "short": "BIGSHARE"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/kusumgar-limited-rhp_102510.html",
-      "lot_size": 35,
-      "isin": "INE0ISX01025",
-      "industry": "Textile"
-    },
     "LALITHAA": {
       "registrar": {
         "name": "MUFG Intime India Private Limited ",
@@ -818,6 +804,20 @@
       "isin": "INE0PX301025",
       "industry": "Logistics"
     },
+    "SMT": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "sahajanandmedical.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan ",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.ipopremium.in/images/ipo/sahajanand_medical_technologies_ltd_mainboard_rhp_1791630001.pdf",
+      "lot_size": 43,
+      "isin": "INE356Y01018",
+      "industry": "Hospital & Healthcare Services"
+    },
     "SONA": {
       "registrar": {
         "name": "KfinTechnologies Limited",
@@ -1012,6 +1012,20 @@
       "lot_size": 110,
       "isin": "INE0NG701011",
       "industry": "IT - Software"
+    },
+    "ZETWERK": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "zetwerk.ipo@kfintech.com",
+        "contact_number": "91 40 6716 2222",
+        "contact_name": "Williams R",
+        "short": "KFin"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Zetwerk-RHP_compressed.pdf",
+      "lot_size": 99,
+      "isin": "INE09PO01019",
+      "industry": "Power Generation/Distribution"
     }
   }
 }
