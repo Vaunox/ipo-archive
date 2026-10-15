@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-14T12:45:51.598768+00:00",
+  "refreshed_at": "2026-10-15T12:45:37.006241+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -428,20 +428,6 @@
       "lot_size": 74,
       "isin": "INE0K9O01026",
       "industry": "Diamond & Jewellery"
-    },
-    "LASERPOWER": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "laserpower.ipo@in.mpms.mufg.com",
-        "contact_number": "+91 81 0811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://laserpowerinfra.com/wp-content/uploads/2026/07/Red-Herring-Prospectus.pdf",
-      "lot_size": 70,
-      "isin": "INE17IR01028",
-      "industry": "Cable"
     },
     "LCCPROJECT": {
       "registrar": {
