@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-15T12:45:37.006241+00:00",
+  "refreshed_at": "2026-10-16T12:45:37.418003+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -372,6 +372,20 @@
       "lot_size": 66,
       "isin": "INE05C901015",
       "industry": "Power Generation/Distribution"
+    },
+    "JPL": {
+      "registrar": {
+        "name": "KFin Technologies Limited ",
+        "website": "https://www.kfintech.com/",
+        "email": "jioplatforms.ipo@kfintech.com",
+        "contact_number": "+ 91 40 6716 2222/ 1800 309 4001",
+        "contact_name": "Williams R",
+        "short": "K Fintech"
+      },
+      "rhp_url": "https://myjiostatic.cdn.jio.com/cms/assets/iv3/Red%20Herring%20Prospectus.pdf",
+      "lot_size": 12,
+      "isin": "INE0BJO01010",
+      "industry": "Telecommunication - Service Provider"
     },
     "JSIPL": {
       "registrar": {
