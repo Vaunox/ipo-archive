@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-18T12:45:37.257421+00:00",
+  "refreshed_at": "2026-10-19T12:45:51.258494+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -652,6 +652,20 @@
       "lot_size": 55,
       "isin": "INE0J1N01028",
       "industry": "Electric Equipment"
+    },
+    "PARASHLTH": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "parashealthcare.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.jmfl.com/Common/getFile/6104",
+      "lot_size": 21,
+      "isin": "INE661T01029",
+      "industry": "Hospital & Healthcare Services"
     },
     "PERNIASPOP": {
       "registrar": {
