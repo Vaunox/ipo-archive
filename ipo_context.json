@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-19T12:45:51.258494+00:00",
+  "refreshed_at": "2026-10-20T12:45:36.132968+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -28,20 +28,6 @@
       "lot_size": 111,
       "isin": "INE505M01015",
       "industry": "Auto Ancillary"
-    },
-    "ALPINETEX": {
-      "registrar": {
-        "name": "Kfin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "alpine.ipo@kfintech.com",
-        "contact_number": "+91 40 67162222 / 18003094001",
-        "contact_name": "Mr. M Murli Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/alpine-texworld-limited-rhp_102719.html",
-      "lot_size": 142,
-      "isin": "INE1JCQ01037",
-      "industry": "Textile"
     },
     "ANNU": {
       "registrar": {
@@ -747,20 +733,6 @@
       "lot_size": 49,
       "isin": "INE804W01029",
       "industry": "Construction - Real Estate"
-    },
-    "SBIFUNDS": {
-      "registrar": {
-        "name": "KFin Technologies Limited ",
-        "website": "https://www.kfintech.com/",
-        "email": "sbifml.ipo@kfintech.com",
-        "contact_number": " +91 40 6716 2222 ",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.sbimf.com/docs/default-source/sbi-funds/offer-documents/rhp-document.pdf",
-      "lot_size": 26,
-      "isin": "INE640G01020",
-      "industry": "Finance - Asset Management"
     },
     "SHAHINVEST": {
       "registrar": {
