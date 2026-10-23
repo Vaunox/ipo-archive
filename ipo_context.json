@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-22T12:45:37.119725+00:00",
+  "refreshed_at": "2026-10-23T12:45:33.449270+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -127,6 +127,20 @@
       "isin": "INE1EEM01017",
       "industry": "Steel & Iron Products"
     },
+    "BLSPOLY": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "blsploymers.ipo@kfintech.com",
+        "contact_number": "+ 91 406 716 2222 /1800 309 4001",
+        "contact_name": "Williams R",
+        "short": "K FINTECH "
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/1792388466880.pdf",
+      "lot_size": 100,
+      "isin": "INE0ZCQ01019",
+      "industry": "Petrochemicals"
+    },
     "BONFIG": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -139,20 +153,6 @@
       "rhp_url": "https://www.bonfiglioli.com/india/IPO/RHP/Peacock%20-%20RHP%20%28Filing%20version%29%20-%20Signed.pdf",
       "lot_size": 25,
       "isin": "INE28SO01013"
-    },
-    "CMLL": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "cmll.ipo@kfintech.com",
-        "contact_number": "+91 4067162222 / 18003094001",
-        "contact_name": "M Murali Krishna",
-        "short": "K Fintech"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/caliber-mining-and-logistics-limited-rhp_102790.html",
-      "lot_size": 35,
-      "isin": "INE11XY01018",
-      "industry": "Logistics"
     },
     "CUBEINVIT": {
       "registrar": {
@@ -194,6 +194,20 @@
       "lot_size": 17,
       "isin": "INE01NH01023",
       "industry": "Automobile Two & Three Wheelers"
+    },
+    "EDELALTS": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited ",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "eaaaindia.ipo@in.mpms.mufg.com",
+        "contact_number": "+91 810 811 4949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://www.eaaa.in/wp-content/uploads/2026/09/Red-Herring-Prospectus.pdf",
+      "lot_size": 9,
+      "isin": "INE528L01027",
+      "industry": "Finance - Asset Management"
     },
     "ELEVATE": {
       "registrar": {
