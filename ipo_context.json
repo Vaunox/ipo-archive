@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-25T12:45:37.148330+00:00",
+  "refreshed_at": "2026-10-26T12:45:37.339221+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -747,6 +747,19 @@
       "lot_size": 49,
       "isin": "INE804W01029",
       "industry": "Construction - Real Estate"
+    },
+    "SFCTECH": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "sfcenvironmental.ipo@in.mpms.mufg.com",
+        "contact_number": " +91 8108114949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://sfcenvironment.com/wp-content/uploads/2026/10/SFC-Environmental-Technologies-Ltd_RHP-1.pdf",
+      "lot_size": 45,
+      "isin": "INE0PKN01028"
     },
     "SHAHINVEST": {
       "registrar": {
