@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-26T12:45:37.339221+00:00",
+  "refreshed_at": "2026-10-27T12:45:37.624859+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -540,6 +540,20 @@
       "lot_size": 107,
       "isin": "INE00IT01020",
       "industry": "Consumer Food"
+    },
+    "MKSONS": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 022 6263 8200",
+        "contact_name": "Vinayak Morbale",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.afsl.co.in/pdfnew/Red%20Herring%20Prospectus.pdf",
+      "lot_size": 91,
+      "isin": "INE2IXO01012",
+      "industry": "Diamond & Jewellery"
     },
     "MOLBIO": {
       "registrar": {
