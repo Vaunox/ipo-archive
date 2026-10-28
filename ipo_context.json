@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-27T12:45:37.624859+00:00",
+  "refreshed_at": "2026-10-28T12:45:37.846105+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -112,6 +112,20 @@
       "lot_size": 19,
       "isin": "INE16W401027",
       "industry": "Diamond & Jewellery"
+    },
+    "BCSSL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "bombaycoated.ipo@kfintech.com",
+        "contact_number": "+91 40 6716 2222/ 1800 309 400",
+        "contact_name": "Williams R",
+        "short": "K FINTECH"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/bombay-coated-special-steels-ltd-rhp.pdf",
+      "lot_size": 182,
+      "isin": "INE0XFY01011",
+      "industry": "Steel & Iron Products"
     },
     "BLEL": {
       "registrar": {
