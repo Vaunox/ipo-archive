@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-28T12:45:37.846105+00:00",
+  "refreshed_at": "2026-10-29T12:45:37.017126+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -359,20 +359,6 @@
       "isin": "INE0LEG01024",
       "industry": "Engineering"
     },
-    "INDOMIM": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "indomim.ipo@in.mpms.mufg.com",
-        "contact_number": "+91 81 0811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/indo-mim-limited-rhp_102938.html",
-      "lot_size": 30,
-      "isin": "INE084101034",
-      "industry": "Engineering"
-    },
     "JNPR": {
       "registrar": {
         "name": "KFin Technologies Limited",
@@ -470,20 +456,6 @@
       "lot_size": 102,
       "isin": "INE1FPN01026",
       "industry": "Engineering - Construction"
-    },
-    "LCL": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "lohiacorp.ipo@in.mpms.mufg.com",
-        "contact_number": " +91 810 811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/lohia-corp-limited-rhp_102936.html",
-      "lot_size": 35,
-      "isin": "INE0QJW01029",
-      "industry": "Engineering"
     },
     "LEAP": {
       "registrar": {
@@ -1039,20 +1011,6 @@
       "lot_size": 68,
       "isin": "INE1O5L01025",
       "industry": "Engineering - Construction"
-    },
-    "XTRANET": {
-      "registrar": {
-        "name": "Kfin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "xtranet.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222 / 18003094001",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.bseindia.com/corporates/download/305760/IPO%20Prior/Xtranet_DRHP_Final_20250926220859.pdf",
-      "lot_size": 110,
-      "isin": "INE0NG701011",
-      "industry": "IT - Software"
     },
     "ZETWERK": {
       "registrar": {
