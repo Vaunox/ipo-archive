@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-01T12:45:36.520567+00:00",
+  "refreshed_at": "2026-11-02T12:45:36.603626+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -167,19 +167,6 @@
       "rhp_url": "https://www.bonfiglioli.com/india/IPO/RHP/Peacock%20-%20RHP%20%28Filing%20version%29%20-%20Signed.pdf",
       "lot_size": 25,
       "isin": "INE28SO01013"
-    },
-    "CUBEINVIT": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "cube.invit@kfintech.com",
-        "contact_number": "+91 40 6716 2222 / 1800 309 4001",
-        "contact_name": " M Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://investmentbank.kotak.com//kib-cms/sites/default/files/offer-documets/Cube_Highways_Trust_Offer_Document_July_13_2026.pdf",
-      "lot_size": 95,
-      "isin": "INE0NR623014"
     },
     "DEEPA": {
       "registrar": {
