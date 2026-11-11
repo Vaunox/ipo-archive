@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-10T12:45:49.057810+00:00",
+  "refreshed_at": "2026-11-11T12:45:34.396842+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -70,20 +70,6 @@
       "lot_size": 107,
       "isin": "INE148G01016",
       "industry": "Finance - NBFC"
-    },
-    "ARDEE": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "ardeeindustries.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222",
-        "contact_name": "M Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/jul-2026/ardee-industries-limited-rhp_103086.html",
-      "lot_size": 281,
-      "isin": "INE0XNF01022",
-      "industry": "Metal - Non Ferrous"
     },
     "ARMEE": {
       "registrar": {
