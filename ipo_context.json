@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-15T12:45:33.259567+00:00",
+  "refreshed_at": "2026-11-16T12:45:32.205360+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -167,20 +167,6 @@
       "lot_size": 84,
       "isin": "INE1M2N01020",
       "industry": "Diamond & Jewellery"
-    },
-    "DHOOTTRANS": {
-      "registrar": {
-        "name": "Kfin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "dhoot.ipo@kfintech.com",
-        "contact_number": "+91-40 6716 2222 /18003 094001",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/annexure-1-dhoot-transmission-limited-rhp-3-8-26.pdf",
-      "lot_size": 17,
-      "isin": "INE01NH01023",
-      "industry": "Automobile Two & Three Wheelers"
     },
     "EDELALTS": {
       "registrar": {
@@ -471,20 +457,6 @@
       "lot_size": 91,
       "isin": "INE2IXO01012",
       "industry": "Diamond & Jewellery"
-    },
-    "MOLBIO": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "molbio.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222 / 1800 3094001",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/molbio_diagnostics_limited_-_red_herring_prospectus.pdf",
-      "lot_size": 18,
-      "isin": "INE869T01028",
-      "industry": "Hospital & Healthcare Services"
     },
     "MOMSBELIEF": {
       "registrar": {
