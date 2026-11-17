@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-16T12:45:32.205360+00:00",
+  "refreshed_at": "2026-11-17T12:45:33.005850+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -153,6 +153,20 @@
       "rhp_url": "https://www.bonfiglioli.com/india/IPO/RHP/Peacock%20-%20RHP%20%28Filing%20version%29%20-%20Signed.pdf",
       "lot_size": 25,
       "isin": "INE28SO01013"
+    },
+    "CRYSTALCP": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "crystalcrop.ipo@in.mpms.mufg.com",
+        "contact_number": "91 81081 14949",
+        "contact_name": "Shanti Gopalkrishnan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/crystal_crop_protection_limited_-_red_herring_prospectus_compressed.pdf",
+      "lot_size": 55,
+      "isin": "INE101P01016",
+      "industry": "Agriculture"
     },
     "DEEPA": {
       "registrar": {
@@ -416,6 +430,20 @@
       "isin": "INE185Q01025",
       "industry": "Engineering - Construction"
     },
+    "MAHACOAL": {
+      "registrar": {
+        "name": "KFin Technologies Limited",
+        "website": "https://www.kfintech.com/",
+        "email": "mahanadi.ipo@kfintech.com",
+        "contact_number": "91 4067162222/1800 309 4001",
+        "contact_name": "Williams R",
+        "short": "KFIN"
+      },
+      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/Mahanadi Coalfields Ltd -Red Herring Prospectus-1794636910_compressed.pdf",
+      "lot_size": 110,
+      "isin": "INE03K401026",
+      "industry": "Mining & Minerals"
+    },
     "MANIKA": {
       "registrar": {
         "name": "MUFG Intime India Private Limited",
@@ -429,20 +457,6 @@
       "lot_size": 348,
       "isin": "INE0KWF01020",
       "industry": "Plastic Products"
-    },
-    "MILKYMIST": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "milky.ipo@kfintech.com",
-        "contact_number": " +91 40 6716 2222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/milky-mist-dairy-food-limited-rhp.pdf",
-      "lot_size": 107,
-      "isin": "INE00IT01020",
-      "industry": "Consumer Food"
     },
     "MKSONS": {
       "registrar": {
