@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-17T12:45:33.005850+00:00",
+  "refreshed_at": "2026-11-18T12:45:31.835616+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -111,20 +111,6 @@
       "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/bombay-coated-special-steels-ltd-rhp.pdf",
       "lot_size": 182,
       "isin": "INE0XFY01011",
-      "industry": "Steel & Iron Products"
-    },
-    "BLEL": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited",
-        "website": "https://in.mpms.mufg.com/",
-        "email": "beharilalengineering.ipo@in.mpms.mufg.com",
-        "contact_number": "+91 810 811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG"
-      },
-      "rhp_url": "https://www.systematixgroup.in/wp-content/uploads/2026/08/Behari-Lal-RHP.pdf",
-      "lot_size": 52,
-      "isin": "INE1EEM01017",
       "industry": "Steel & Iron Products"
     },
     "BLSPOLY": {
@@ -691,20 +677,6 @@
       "lot_size": 160,
       "isin": "INE1WFC01025",
       "industry": "Diamond & Jewellery"
-    },
-    "SHIPROCKET": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "shiprocket.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.axiscapital.co.in/contents/Shiprocket%20Limited%20-%20RHP%20-%20August%205,%202026-1785937235.pdf",
-      "lot_size": 154,
-      "isin": "INE0FOO01011",
-      "industry": "Logistics"
     },
     "SKYWAYS": {
       "registrar": {
