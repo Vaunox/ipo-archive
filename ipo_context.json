@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-22T12:45:32.113295+00:00",
+  "refreshed_at": "2026-11-23T12:45:31.214114+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -291,19 +291,6 @@
       "isin": "INE012G01022",
       "industry": "Automobile Two & Three Wheelers"
     },
-    "HORIZONIND": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "horizon.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222/ 1800 309 4001",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.axiscapital.co.in/contents/Horizon%20Industrial%20Parks%20Limited_RHP-1786462662.pdf",
-      "lot_size": 250,
-      "isin": "INE685T01010"
-    },
     "HTEL": {
       "registrar": {
         "name": "Bigshare Services Private Limited",
@@ -373,20 +360,6 @@
       "lot_size": 59,
       "isin": "INE590T01012",
       "industry": "Power Generation/Distribution"
-    },
-    "LALITHAA": {
-      "registrar": {
-        "name": "MUFG Intime India Private Limited ",
-        "website": "https://in.mpms.mufg.com/home.html",
-        "email": "lalithaajewellery.ipo@in.mpms.mufg.com",
-        "contact_number": "+91 810 811 4949",
-        "contact_name": "Shanti Gopalkrishnan",
-        "short": "MUFG "
-      },
-      "rhp_url": "https://www.sebi.gov.in/filings/public-issues/aug-2026/lalithaa-jewellery-mart-limited-rhp_103513.html",
-      "lot_size": 74,
-      "isin": "INE0K9O01026",
-      "industry": "Diamond & Jewellery"
     },
     "LCCPROJECT": {
       "registrar": {
