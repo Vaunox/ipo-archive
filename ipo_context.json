@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-23T12:45:31.214114+00:00",
+  "refreshed_at": "2026-11-24T12:45:42.793440+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -208,6 +208,20 @@
       "lot_size": 34,
       "isin": "INE0DRI01029",
       "industry": "IT - Software"
+    },
+    "FOODLINK": {
+      "registrar": {
+        "name": "MUFG Intime India Private Limited",
+        "website": "https://in.mpms.mufg.com/",
+        "email": "foodlink.ipo@in.mpms.mufg.com",
+        "contact_number": "91 81081 14949",
+        "contact_name": "Shanti Gopalkrishanan",
+        "short": "MUFG"
+      },
+      "rhp_url": "https://s3.ap-south-1.amazonaws.com/cms.equirus.tech/Foodlink_F_and_B_Holdings_India_Limited_Red_Herring_Prospectus_95e7e3e3b7.pdf",
+      "lot_size": 78,
+      "isin": "INE0PJD01021",
+      "industry": "Consumer Food"
     },
     "FUSIONCX": {
       "registrar": {
@@ -637,20 +651,6 @@
       "isin": "INE029N01014",
       "industry": "Finance - Housing"
     },
-    "SHANKESH": {
-      "registrar": {
-        "name": "KFIN Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "shankesh.ipo@kfintech.com",
-        "contact_number": "040-67162222/18003094001",
-        "contact_name": "M. Murali Krishna",
-        "short": "KFINTECH"
-      },
-      "rhp_url": "https://assets.upstox.com/ipo/documents/rhp/shankesh-jewellers-limited_rhp.pdf",
-      "lot_size": 160,
-      "isin": "INE1WFC01025",
-      "industry": "Diamond & Jewellery"
-    },
     "SKYWAYS": {
       "registrar": {
         "name": "Bigshare Services Private Limited",
@@ -734,20 +734,6 @@
       "lot_size": 185,
       "isin": "INE0FRO01022",
       "industry": "Industrial Gases & Fuels"
-    },
-    "SUNSHINE": {
-      "registrar": {
-        "name": "Bigshare Services Private Limited",
-        "website": "https://www.bigshareonline.com/",
-        "email": "ipo@bigshareonline.com",
-        "contact_number": "+91 22-6263 8200",
-        "contact_name": "Vinayak Morbale ",
-        "short": "BIGSHARE"
-      },
-      "rhp_url": "https://gyrcapitaladvisors.com/wp-content/uploads/2026/08/FinalRHP_Sunshine-Pictures-Ltd-GYR.pdf",
-      "lot_size": 41,
-      "isin": "INE1B3O01011",
-      "industry": "Film Production"
     },
     "SWASTIKAIN": {
       "registrar": {
