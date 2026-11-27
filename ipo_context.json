@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-26T12:45:30.262511+00:00",
+  "refreshed_at": "2026-11-27T12:45:30.335324+00:00",
   "ipos": {
     "ACEVECTOR": {
       "registrar": {
@@ -417,6 +417,20 @@
       "isin": "INE0KWF01020",
       "industry": "Plastic Products"
     },
+    "MATANGI": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "022 - 6263 8200",
+        "contact_name": "Babu Rapheal",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://matangirubber.com/wp-content/uploads/2026/11/Matangi_Red-Herring-Prospectus.pdf",
+      "lot_size": 87,
+      "isin": "INE1DHT01017",
+      "industry": "Rubber Products"
+    },
     "MKSONS": {
       "registrar": {
         "name": "Bigshare Services Private Limited",
@@ -458,6 +472,20 @@
       "lot_size": 441,
       "isin": "INE0PTN01011",
       "industry": "Finance - Investment"
+    },
+    "MONOMARK": {
+      "registrar": {
+        "name": "Bigshare Services Private Limited",
+        "website": "https://www.bigshareonline.com/",
+        "email": "ipo@bigshareonline.com",
+        "contact_number": "+91 22-62638200",
+        "contact_name": "Mr. Sagar Pathare",
+        "short": "BIGSHARE"
+      },
+      "rhp_url": "https://www.holaniconsultants.co.in/download/ipo/RHP%20Monomark.pdf",
+      "lot_size": 225,
+      "isin": "INE1WHW01011",
+      "industry": "Engineering - Industrial Equipments"
     },
     "MPIMANIPAL": {
       "registrar": {
@@ -748,20 +776,6 @@
       "lot_size": 15,
       "isin": "INE899I01028",
       "industry": "Pharmaceuticals & Drugs"
-    },
-    "TEMPSENS": {
-      "registrar": {
-        "name": "KFin Technologies Limited",
-        "website": "https://www.kfintech.com/",
-        "email": "tempsens.ipo@kfintech.com",
-        "contact_number": "+91 40 6716 2222",
-        "contact_name": "M. Murali Krishna",
-        "short": "K FINTECH"
-      },
-      "rhp_url": "https://www.icicisecurities.com/console/uploads/actual/TEMPSENS-INSTRUMENTS-(INDIA)-LIMITED---RED-HERRING-PROSPECTUS_1786731387_84.pdf",
-      "lot_size": 50,
-      "isin": "INE1KZI01025",
-      "industry": "Engineering - Industrial Equipments"
     },
     "TONBO": {
       "registrar": {
